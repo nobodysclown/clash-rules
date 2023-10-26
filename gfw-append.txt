@@ -5,3 +5,4 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.notion.site'
+  - '+.notion.so'
