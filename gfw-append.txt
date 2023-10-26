@@ -6,3 +6,4 @@ payload:
   - '+.jdbstatic.com'
   - '+.notion.site'
   - '+.notion.so'
+  - '+.jsdelivr.net'
