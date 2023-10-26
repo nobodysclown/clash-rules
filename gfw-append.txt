@@ -1,0 +1,7 @@
+payload:
+  - '+.buzzsprout.com'
+  - '+.anthropic.com'
+  - '+.claude.ai'
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
+  - '+.notion.site'
