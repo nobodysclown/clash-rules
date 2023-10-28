@@ -7,7 +7,4 @@ payload:
   - '+.notion.site'
   - '+.notion.so'
   - '+.es-cf.net'
-  - '+.bulianglin.com'
-  - '+.ip125.com'
   - '+.bootstrapcdn.com'
-
