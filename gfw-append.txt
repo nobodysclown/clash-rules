@@ -8,3 +8,4 @@ payload:
   - '+.notion.so'
   - '+.es-cf.net'
   - '+.bootstrapcdn.com'
+  - '+.bulianglin.com'
