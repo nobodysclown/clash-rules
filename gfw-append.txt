@@ -8,3 +8,5 @@ payload:
   - '+.notion.so'
   - '+.es-cf.net'
   - '+.bootstrapcdn.com'
+  - '+.google'
+
