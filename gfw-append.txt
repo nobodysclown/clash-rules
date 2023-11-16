@@ -1,12 +1,19 @@
 payload:
   - '+.buzzsprout.com'
+
   - '+.anthropic.com'
   - '+.claude.ai'
+
+  - '+.oaistatic.com
+  - '+.oaiusercontent.com
+
   - '+.javdb.com'
   - '+.jdbstatic.com'
+
   - '+.notion.site'
   - '+.notion.so'
+
   - '+.es-cf.net'
   - '+.bootstrapcdn.com'
-  - '+.google'
 
+  - '+.google'
