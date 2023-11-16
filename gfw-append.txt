@@ -4,8 +4,8 @@ payload:
   - '+.anthropic.com'
   - '+.claude.ai'
 
-  - '+.oaistatic.com'
-  - '+.oaiusercontent.com'
+  - '*.oaistatic.com'
+  - '*.oaiusercontent.com'
 
   - '+.javdb.com'
   - '+.jdbstatic.com'
