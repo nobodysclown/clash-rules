@@ -6,6 +6,7 @@ payload:
 
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
+  - '+.auth0.com'
 
   - '+.javdb.com'
   - '+.jdbstatic.com'
