@@ -5,7 +5,7 @@ payload:
   - '+.claude.ai'
 
   - '*.oaistatic.com'
-  - '*.oaiusercontent.com'
+  - 'files.oaiusercontent.com'
 
   - '+.javdb.com'
   - '+.jdbstatic.com'
