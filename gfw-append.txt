@@ -1,10 +1,10 @@
 payload:
+  - '+.google'
   - '+.buzzsprout.com'
   - '+.anthropic.com'
   - '+.claude.ai'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
-  - '+.auth0.com'
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.notion.site'
@@ -12,4 +12,4 @@ payload:
   - '+.es-cf.net'
   - '+.bootstrapcdn.com'
   - '+.cdn-telegram.org'
-  - '+.google'
+  - '+.spotifycdn.com'
