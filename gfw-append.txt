@@ -1,5 +1,8 @@
 payload:
   - 'copilot.microsoft.com'
+  - '+.bing.com'
+  - '+.bingapis.com'
+  - '+.storage.live.com'
   - '+.google'
   - '+.buzzsprout.com'
   - '+.anthropic.com'
