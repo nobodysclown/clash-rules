@@ -1,5 +1,6 @@
 payload:
   - '+.google'
+  - 'copilot.microsoft.com'
   - '+.buzzsprout.com'
   - '+.anthropic.com'
   - '+.claude.ai'
