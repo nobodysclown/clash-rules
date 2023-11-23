@@ -10,6 +10,7 @@ payload:
   - '+.claude.ai'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
+  - '+.onetrust.com'
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.notion.site'
