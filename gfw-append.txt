@@ -19,3 +19,4 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.cdn-telegram.org'
   - '+.spotifycdn.com'
+  - '+.scdn.co'
