@@ -1,10 +1,4 @@
 payload:
-  - '+.microsoftonline.com'
-  - '+.copilot.microsoft.com'
-  - '+.edge.microsoft.com'
-  - '+.bing.com'
-  - '+.bingapis.com'
-  - '+.live.com'
   - '+.google'
   - '+.buzzsprout.com'
   - '+.anthropic.com'
