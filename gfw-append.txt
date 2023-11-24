@@ -4,6 +4,7 @@ payload:
   - '+.edge.microsoft.com'
   - '+.bing.com'
   - '+.bingapis.com'
+  - '+.live.com'
   - '+.google'
   - '+.buzzsprout.com'
   - '+.anthropic.com'
