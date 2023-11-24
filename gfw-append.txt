@@ -1,5 +1,5 @@
 payload:
-  - '+.mcopilot.microsoft.com'
+  - '+.copilot.microsoft.com'
   - '+.bing.com'
   - '+.bingapis.com'
   - '+.google'
