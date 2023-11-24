@@ -1,6 +1,6 @@
 payload:
   - 'copilot.microsoft.com'
-  - 'login.microsoftonline.com'
+  - '+.microsoftonline.com'
   - '+.edge.microsoft.com'
   - '+.bing.com'
   - '+.bingapis.com'
