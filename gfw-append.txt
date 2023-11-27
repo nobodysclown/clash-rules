@@ -16,3 +16,4 @@ payload:
   - '+.spotifycdn.com'
   - '+.scdn.co'
   - '+.ufc.com'
+  - '+.ipify.org'
