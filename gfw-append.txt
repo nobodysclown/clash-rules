@@ -19,4 +19,4 @@ payload:
   - '+.ipify.org'
   - '+.microsoft.com'
   - '+.bing.com'
-  - '+.bingapi.com'
+  - '+.bingapis.com'
