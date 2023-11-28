@@ -20,3 +20,4 @@ payload:
   - '+.copilot.microsoft.com'
   - '+.bing.com'
   - '+.bingapi.com'
+  - '+.microsoft.com'
