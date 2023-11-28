@@ -18,3 +18,5 @@ payload:
   - '+.ufc.com'
   - '+.ipify.org'
   - '+.copilot.microsoft.com'
+  - '+.bing.com'
+  - '+.bingapi.com'
