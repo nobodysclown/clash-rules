@@ -17,7 +17,6 @@ payload:
   - '+.scdn.co'
   - '+.ufc.com'
   - '+.ipify.org'
-  - '+.microsoft.com'
-  - '+.live.com'
+  - '+.copilot.microsoft.com'
   - '+.bing.com'
   - '+.bingapis.com'
