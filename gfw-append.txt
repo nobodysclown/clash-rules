@@ -18,6 +18,8 @@ payload:
   - '+.ufc.com'
   - '+.ipify.org'
   - '+.copilot.microsoft.com'
+  - '+.account.microsoft.com'
+  - '+.login.live.com'
   - '+.bing.com'
   - '+.bingapis.com'
   - '+.cdn-platform.dianxiaomi.com'
