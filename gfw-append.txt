@@ -23,3 +23,4 @@ payload:
   - '+.ufc.com'
   - '+.ipify.org'
   - '+.cdn-platform.dianxiaomi.com'
+  - '+.bulianglin.com'
