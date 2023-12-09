@@ -24,3 +24,5 @@ payload:
   - '+.ipify.org'
   - '+.cdn-platform.dianxiaomi.com'
   - '+.vercel.com'
+  - '+.foursquare.com'
+
