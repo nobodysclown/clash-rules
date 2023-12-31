@@ -30,7 +30,6 @@ payload:
   - '+.scdn.co'
   - '+.ufc.com'
   - '+.ipify.org'
-  - '+.cdn-platform.dianxiaomi.com'
   - '+.vercel.com'
   - '+.foursquare.com'
 
