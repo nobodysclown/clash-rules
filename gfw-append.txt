@@ -10,6 +10,7 @@ payload:
   - '+.jdbstatic.com'
   - '+.notion.site'
   - '+.notion.so'
+  - '+.addons.mozilla.org'
 
   - '+.anthropic.com'
   - '+.claude.ai'
