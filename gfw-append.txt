@@ -11,6 +11,7 @@ payload:
   - '+.notion.site'
   - '+.notion.so'
   - '+.addons.mozilla.org'
+  - '+.namokimods.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
