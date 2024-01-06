@@ -1,6 +1,7 @@
 payload:
   - '+.google'
   - '+.github.com'
+  - 'gist.github.com'
   - '+.buzzsprout.com'
   - '+.ufc.com'
   - '+.ipify.org'
