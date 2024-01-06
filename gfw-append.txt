@@ -17,6 +17,7 @@ payload:
 
   - '+.anthropic.com'
   - '+.claude.ai'
+  - '+.openai.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
 
