@@ -37,5 +37,6 @@ payload:
   - '+.cdn-telegram.org'
   - '+.spotifycdn.com'
   - '+.scdn.co'
+  - '+.tiktokv.com'
 
 
