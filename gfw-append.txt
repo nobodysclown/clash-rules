@@ -38,7 +38,10 @@ payload:
   - '+.spotifycdn.com'
   - '+.scdn.co'
 
+  - '+.tiktok.com'
   - '+.tiktokv.com'
   - '+.ttwstatic.com'
+
+
 
 
