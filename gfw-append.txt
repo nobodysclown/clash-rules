@@ -15,6 +15,7 @@ payload:
   - '+.pages.dev'
   - '+.v2ex.com'
   - '+.temu.com'
+  - '+.kwcdn.com'
   - '+.tiktok.com'
   - '+.tiktokv.com'
   - '+.ttwstatic.com'
