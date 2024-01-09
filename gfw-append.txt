@@ -14,6 +14,10 @@ payload:
   - '+.namokimods.com'
   - '+.pages.dev'
   - '+.v2ex.com'
+  - '+.temu.com'
+  - '+.tiktok.com'
+  - '+.tiktokv.com'
+  - '+.ttwstatic.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
@@ -37,11 +41,3 @@ payload:
   - '+.cdn-telegram.org'
   - '+.spotifycdn.com'
   - '+.scdn.co'
-
-  - '+.tiktok.com'
-  - '+.tiktokv.com'
-  - '+.ttwstatic.com'
-
-
-
-
