@@ -19,6 +19,7 @@ payload:
   - '+.kwcdn.com'
   - '+.tiktok.com'
   - '+.tiktokv.com'
+  - '+.tiktokcdn.com'
   - '+.ttwstatic.com'
 
   - '+.anthropic.com'
