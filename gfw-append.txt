@@ -20,7 +20,9 @@ payload:
   - '+.tiktok.com'
   - '+.tiktokv.com'
   - '+.tiktokcdn.com'
+  - '+.tiktokcdn-us.com'
   - '+.ttwstatic.com'
+  - '+.byteoversea.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
