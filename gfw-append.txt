@@ -30,6 +30,7 @@ payload:
   - '+.oaiusercontent.com'
 
   - '+.copilot.microsoft.com'
+  - '+.live.com'
   - '+.bingapis.com'
   - '+.bing.com'
   - '+.bing.com.cn'
