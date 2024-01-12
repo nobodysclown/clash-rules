@@ -23,6 +23,7 @@ payload:
   - '+.tiktokcdn-us.com'
   - '+.ttwstatic.com'
   - '+.byteoversea.com'
+  - '+.gravatar.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
