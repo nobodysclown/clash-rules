@@ -23,10 +23,10 @@ payload:
   - '+.tiktokcdn-us.com'
   - '+.ttwstatic.com'
   - '+.byteoversea.com'
-  - '+.gravatar.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
+  - '+.auth0.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
 
