@@ -12,6 +12,7 @@ payload:
   - '+.notion.so'
   - '+.addons.mozilla.org'
   - '+.namokimods.com'
+  - '+.shopify.com'
   - '+.pages.dev'
   - '+.v2ex.com'
   - '+.yahoo.com'
