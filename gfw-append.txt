@@ -11,7 +11,7 @@ payload:
   - '+.notion.site'
   - '+.notion.so'
   - '+.addons.mozilla.org'
-  - '+.shopify.com'
+  - '+.namokimods.com'
   - '+.pages.dev'
   - '+.v2ex.com'
   - '+.yahoo.com'
