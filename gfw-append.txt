@@ -13,7 +13,6 @@ payload:
   - '+.addons.mozilla.org'
   - '+.namokimods.com'
   - '+.pages.dev'
-  - '+.v2ex.com'
   - '+.yahoo.com'
   - '+.temu.com'
   - '+.kwcdn.com'
