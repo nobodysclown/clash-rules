@@ -16,7 +16,6 @@ payload:
   - '+.yahoo.com'
   - '+.temu.com'
   - '+.kwcdn.com'
-  - '+.locale-temu-com.trafficmanager.net'
   - '+.tiktok.com'
   - '+.tiktokv.com'
   - '+.tiktokcdn.com'
