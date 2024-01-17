@@ -22,6 +22,7 @@ payload:
   - '+.ttwstatic.com'
   - '+.byteoversea.com'
   - '+.shopify.com'
+  - '+.namokimods.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
