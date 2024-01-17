@@ -23,6 +23,8 @@ payload:
   - '+.byteoversea.com'
   - '+.shopify.com'
   - '+.namokimods.com'
+  - '+.msftauth.net'
+  - '+.microsoftonline.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
@@ -40,7 +42,6 @@ payload:
   - '+.bingagencyawards.com'
   - '+.bingapistatistics.com'
   - '+.sprinklesapp.com'
-  - '+.login.microsoftonline.com'
 
   - '+.es-cf.net'
   - '+.bootstrapcdn.com'
