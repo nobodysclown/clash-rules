@@ -21,6 +21,7 @@ payload:
   - '+.tiktokcdn-us.com'
   - '+.ttwstatic.com'
   - '+.byteoversea.com'
+  - '+.shopify.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
