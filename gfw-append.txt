@@ -1,5 +1,4 @@
 payload:
-  - '+.cloudflare.com'
   - '+.google'
   - '+.github.com'
   - '+.buzzsprout.com'
@@ -9,8 +8,8 @@ payload:
   - '+.foursquare.com'
   - '+.javdb.com'
   - '+.jdbstatic.com'
-  - '+.notion.site'
   - '+.notion.so'
+  - '+.notion.site'
   - '+.addons.mozilla.org'
   - '+.pages.dev'
   - '+.yahoo.com'
