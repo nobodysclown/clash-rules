@@ -1,5 +1,4 @@
 payload:
-  - '+.github.com'
   - '+.buzzsprout.com'
   - '+.ufc.com'
   - '+.ipify.org'
@@ -9,9 +8,7 @@ payload:
   - '+.jdbstatic.com'
   - '+.notion.so'
   - '+.notion.site'
-  - '+.addons.mozilla.org'
   - '+.pages.dev'
-  - '+.yahoo.com'
   - '+.temu.com'
   - '+.kwcdn.com'
   - '+.tiktokv.com'
@@ -45,3 +42,4 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.spotifycdn.com'
   - '+.scdn.co'
+  - '+.loli.net'
