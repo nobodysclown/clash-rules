@@ -1,45 +1,58 @@
-payload:
-  - '+.buzzsprout.com'
-  - '+.ufc.com'
-  - '+.ipify.org'
-  - '+.vercel.com'
-  - '+.foursquare.com'
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-  - '+.notion.so'
-  - '+.notion.site'
-  - '+.pages.dev'
-  - '+.temu.com'
-  - '+.kwcdn.com'
-  - '+.tiktokv.com'
-  - '+.tiktokcdn.com'
-  - '+.tiktokcdn-us.com'
-  - '+.ttwstatic.com'
-  - '+.byteoversea.com'
-  - '+.shopify.com'
-  - '+.namokimods.com'
-  - '+.msftauth.net'
-  - '+.microsoftonline.com'
+.buzzsprout.com
+.ufc.com
+.ipify.org
+.vercel.com
+.foursquare.com
 
-  - '+.anthropic.com'
-  - '+.claude.ai'
-  - '+.auth0.com'
-  - '+.oaistatic.com'
-  - '+.oaiusercontent.com'
+#javdb
+.javdb.com
+.jdbstatic.com
 
-  - '+.copilot.microsoft.com'
-  - '+.live.com'
-  - '+.bingapis.com'
-  - '+.bing.com'
-  - '+.bing.com.cn'
-  - '+.bing.net'
-  - '+.bingads.com'
-  - '+.bingagencyawards.com'
-  - '+.bingapistatistics.com'
-  - '+.sprinklesapp.com'
+#notion
+.notion.so
+.notion.site
 
-  - '+.es-cf.net'
-  - '+.bootstrapcdn.com'
-  - '+.spotifycdn.com'
-  - '+.scdn.co'
-  - '+.loli.net'
+#cloudflare
+.pages.dev
+
+#temu
+.temu.com
+.kwcdn.com
+
+#tiktok
+.tiktokv.com
+.tiktokcdn.com
+.tiktokcdn-us.com
+.ttwstatic.com
+.byteoversea.com
+
+shopify.com
+namokimods.com
+
+#openai
+.anthropic.com
+.claude.ai
+.auth0.com
+.oaistatic.com
+.oaiusercontent.com
+
+#copilot
+.copilot.microsoft.com
+.live.com
+.bingapis.com
+.bing.com
+.bing.com.cn
+.bing.net
+.bingads.com
+.bingagencyawards.com
+.bingapistatistics.com
+.sprinklesapp.com
+.msftauth.net
+.microsoftonline.com
+
+#cdn
+.es-cf.net
+.bootstrapcdn.com
+.spotifycdn.com
+.scdn.co
+.loli.net
