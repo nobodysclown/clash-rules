@@ -1,5 +1,4 @@
 payload:
-  - '+.google'
   - '+.github.com'
   - '+.buzzsprout.com'
   - '+.ufc.com'
@@ -15,7 +14,6 @@ payload:
   - '+.yahoo.com'
   - '+.temu.com'
   - '+.kwcdn.com'
-  - '+.tiktok.com'
   - '+.tiktokv.com'
   - '+.tiktokcdn.com'
   - '+.tiktokcdn-us.com'
@@ -45,6 +43,5 @@ payload:
 
   - '+.es-cf.net'
   - '+.bootstrapcdn.com'
-  - '+.cdn-telegram.org'
   - '+.spotifycdn.com'
   - '+.scdn.co'
