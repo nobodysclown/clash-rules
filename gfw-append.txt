@@ -1,4 +1,5 @@
 #append
+.github.com
 .buzzsprout.com
 .ufc.com
 .ipify.org
