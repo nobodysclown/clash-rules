@@ -1,5 +1,6 @@
 #append
 .github.com
+.docker.io
 .buzzsprout.com
 .ufc.com
 .ipify.org
