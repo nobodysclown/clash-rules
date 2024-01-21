@@ -1,69 +1,70 @@
-#append
-.github.com
-.docker.io
-.buzzsprout.com
-.ufc.com
-.ipify.org
-.vercel.com
-.javdb.com
-.jdbstatic.com
-.pages.dev
-#notion
-.notion.so
-.notion.site
-#temu
-.temu.com
-.kwcdn.com
-#tiktok
-.tiktok.com
-.tik-tokapi.com
-.tiktokcdn.com
-.tiktokcdn-us.com
-.tiktokd.net
-.tiktokd.org
-.tiktokv.com
-.tiktokw.us
-.tiktokmusic.app
-.ttwstatic.com
-.bytedapm.com
-.bytegecko-i18n.com
-.bytegecko.com
-.byteoversea.com
-.capcut.com
-.ibytedtos.com
-.ibyteimg.com
-.ipstatp.com
-.isnssdk.com
-.muscdn.com
-.sgpstatp.com
-.snssdk.com
-.musical.ly
-#shopify
-.shopify.com
-.namokimods.com
-#openai
-.anthropic.com
-.claude.ai
-.openai.com
-.auth0.com
-.oaistatic.com
-.oaiusercontent.com
-#copilot
-.copilot.microsoft.com
-.live.com
-.bingapis.com
-.bing.com
-.bing.com.cn
-.bing.net
-.bingads.com
-.bingagencyawards.com
-.bingapistatistics.com
-.sprinklesapp.com
-.msftauth.net
-.microsoftonline.com
-#cdn
-.es-cf.net
-.bootstrapcdn.com
-.spotifycdn.com
-.scdn.co
-.loli.net
+payload:
+  - '+.github.com'
+  - '+.docker.io
+  - '+.buzzsprout.com
+  - '+.ufc.com
+  - '+.ipify.org
+  - '+.vercel.com
+  - '+.pages.dev
+
+  - '+.javdb.com
+  - '+.jdbstatic.com
+
+  - '+.notion.so
+  - '+.notion.site
+
+  - '+.temu.com
+  - '+.kwcdn.com
+
+  - '+.tiktok.com
+  - '+.tik-tokapi.com
+  - '+.tiktokcdn.com
+  - '+.tiktokcdn-us.com
+  - '+.tiktokd.net
+  - '+.tiktokd.org
+  - '+.tiktokv.com
+  - '+.tiktokw.us
+  - '+.tiktokmusic.app
+  - '+.ttwstatic.com
+  - '+.bytedapm.com
+  - '+.bytegecko-i18n.com
+  - '+.bytegecko.com
+  - '+.byteoversea.com
+  - '+.capcut.com
+  - '+.ibytedtos.com
+  - '+.ibyteimg.com
+  - '+.ipstatp.com
+  - '+.isnssdk.com
+  - '+.muscdn.com
+  - '+.sgpstatp.com
+  - '+.snssdk.com
+  - '+.musical.ly
+
+  - '+.shopify.com
+  - '+.namokimods.com
+
+  - '+.anthropic.com
+  - '+.claude.ai
+  - '+.openai.com
+  - '+.auth0.com
+  - '+.oaistatic.com
+  - '+.oaiusercontent.com
+
+  - '+.copilot.microsoft.com
+  - '+.live.com
+  - '+.bingapis.com
+  - '+.bing.com
+  - '+.bing.com.cn
+  - '+.bing.net
+  - '+.bingads.com
+  - '+.bingagencyawards.com
+  - '+.bingapistatistics.com
+  - '+.sprinklesapp.com
+  - '+.msftauth.net
+  - '+.microsoftonline.com
+
+  - '+.es-cf.net
+  - '+.bootstrapcdn.com
+  - '+.spotifycdn.com
+  - '+.scdn.co
+  - '+.loli.net
