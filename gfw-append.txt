@@ -6,6 +6,7 @@ payload:
   - '+.pages.dev'
   - '+.buzzsprout.com'
   - '+.hcaptcha.com'
+  - '+.ghcr.io'
 
   - '+.javdb.com'
   - '+.jdbstatic.com'
