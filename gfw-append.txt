@@ -1,11 +1,11 @@
 payload:
   - '+.github.com'
   - '+.docker.io'
-  - '+.buzzsprout.com'
-  - '+.ufc.com'
   - '+.ipify.org'
   - '+.vercel.com'
   - '+.pages.dev'
+  - '+.buzzsprout.com'
+  - '+.hcaptcha.com'
 
   - '+.javdb.com'
   - '+.jdbstatic.com'
