@@ -51,8 +51,11 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
 
-  - '+.copilot.microsoft.com'
+  - '+.microsoft.com'
+  - '+.microsoftapp.net'
+  - '+.microsoft-falcon.io'
   - '+.live.com'
+  - '+.msn.com'
   - '+.bingapis.com'
   - '+.bing.com'
   - '+.bing.com.cn'
