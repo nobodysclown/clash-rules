@@ -1,4 +1,6 @@
 payload:
+  - '+.goog'
+  - '+.google'
   - '+.github.com'
   - '+.docker.io'
   - '+.ipify.org'
