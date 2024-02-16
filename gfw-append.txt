@@ -11,7 +11,7 @@ payload:
   - '+.ghcr.io'
   - '+.right.com.cn'
   - '+.ebayimg.com'
-
+  - '+.email.ml'
 
   - '+.javdb.com'
   - '+.jdbstatic.com'
