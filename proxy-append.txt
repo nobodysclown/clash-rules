@@ -1,6 +1,5 @@
 payload:
   - '+.ipify.org'
-  - '+.right.com.cn'
 
   - '+.temu.com'
   - '+.kwcdn.com'
