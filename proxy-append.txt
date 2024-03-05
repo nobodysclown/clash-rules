@@ -1,7 +1,6 @@
 payload:
   - '+.ipify.org'
-
+  - '+.bulianglin.com'
   - '+.temu.com'
   - '+.kwcdn.com'
-
   - '+.namokimods.com'
