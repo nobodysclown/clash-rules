@@ -1,6 +1,9 @@
 payload:
   - '+.ipify.org'
   - '+.bulianglin.com'
+  - '+.namokimods.com'
   - '+.temu.com'
   - '+.kwcdn.com'
-  - '+.namokimods.com'
+
+  - '+.anthropic.com'
+  - '+.claude.ai'
