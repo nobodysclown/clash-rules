@@ -7,3 +7,5 @@ payload:
 
   - '+.anthropic.com'
   - '+.claude.ai'
+
+  - '+.chatgpt.com'
