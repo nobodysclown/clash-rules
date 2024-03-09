@@ -7,6 +7,6 @@ payload:
 
   - '+.anthropic.com'
   - '+.claude.ai'
-
   - '+.openai.com'
   - '+.chatgpt.com'
+  - '+.groq.com'
