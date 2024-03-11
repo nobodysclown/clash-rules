@@ -287,3 +287,6 @@ payload:
   - '+.baiduzhidahao.cc'
 
   - '+.sentry.io'
+
+  - '+.wxsnsdy.wxs.qq.com'
+  - '+.wxsnsdythumb.wxs.qq.com'
