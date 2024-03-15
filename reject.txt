@@ -588,7 +588,6 @@ payload:
   - '+.mcs.zijieapi.com'
   - '+.mon-va.byteoversea.com'
   - '+.mon.byteoversea.com'
-  - '+.mon.domdog.io'
   - '+.mon.isnssdk.com'
   - '+.mon.snssdk.com'
   - '+.mon.tiktokv.com'
