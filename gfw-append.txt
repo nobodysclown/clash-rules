@@ -3,6 +3,7 @@ payload:
   - '+.bulianglin.com'
   - '+.temu.com'
   - '+.kwcdn.com'
+  - '+.javdb.com'
 
   - '+.anthropic.com'
   - '+.claude.ai'
