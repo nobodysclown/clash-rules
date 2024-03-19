@@ -10,3 +10,4 @@ payload:
   - '+.openai.com'
   - '+.chatgpt.com'
   - '+.groq.com'
+  - '+.coze.com'
