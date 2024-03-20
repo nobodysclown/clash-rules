@@ -305,8 +305,6 @@ payload:
   - '+.adsview.qq.com'
   - '+.adsview2.qq.com'
   - '+.adver.qq.com'
-  - '+.aegis.qq.com'
-  - '+.beacon.qq.com'
   - '+.aeventlog.beacon.qq.com'
   - '+.ag.qq.com'
   - '+.agstat.html5.qq.com'
