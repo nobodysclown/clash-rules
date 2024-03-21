@@ -1,4 +1,7 @@
 payload:
+  - '+.sentry.io'
+  - '+.mcdn.bilivideo.cn'
+
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
   - '+.adservice.google.com'
@@ -285,8 +288,6 @@ payload:
   - '+.baiduvjsbvjknlsvsv.com'
   - '+.baiduyubaidu.com'
   - '+.baiduzhidahao.cc'
-
-  - '+.sentry.io'
 
   - '+.a.ac.qq.com'
   - '+.adping.qq.com'
