@@ -9,6 +9,8 @@ payload:
   - '+.claude.ai'
   - '+.openai.com'
   - '+.chatgpt.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
   - '+.groq.com'
   - '+.coze.com'
   - '+.copilot.microsoft.com'
