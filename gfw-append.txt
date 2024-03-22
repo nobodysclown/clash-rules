@@ -11,3 +11,8 @@ payload:
   - '+.chatgpt.com'
   - '+.groq.com'
   - '+.coze.com'
+
+  - '+.microsoft.com'
+  - '+.bing.com'
+  - '+.bing.net'
+  - '+.bingapis.com'
