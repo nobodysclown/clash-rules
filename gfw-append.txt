@@ -5,8 +5,8 @@ payload:
   - '+.kwcdn.com'
   - '+.javdb.com'
 
-  - '+.anthropic.com'
   - '+.claude.ai'
+  - '+.anthropic.com'
   - '+.openai.com'
   - '+.chatgpt.com'
   - '+.oaistatic.com'
