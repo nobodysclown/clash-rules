@@ -12,7 +12,7 @@ payload:
   - '+.groq.com'
   - '+.coze.com'
 
-  - '+.microsoft.com'
+  - '+.copilot.microsoft.com'
   - '+.bing.com'
   - '+.bing.net'
   - '+.bingapis.com'
