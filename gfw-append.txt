@@ -21,3 +21,4 @@ payload:
   - '+.ipify.org'
   - '+.bulianglin.com'
   - '+.javdb.com'
+  - '+.racknerd.com'
