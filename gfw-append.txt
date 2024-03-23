@@ -1,14 +1,19 @@
 payload:
+#chatgpt
   - '+.chatgpt.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
+#claude
   - '+.claude.ai'
   - '+.anthropic.com'
+#groq
   - '+.groq.com'
+#coze
   - '+.coze.com'
-
+#temu
   - '+.temu.com'
   - '+.kwcdn.com'
+#shopify
   - '+.shop.app'
   - '+.shopify.com'
   - '+.shopify.dev'
@@ -16,9 +21,13 @@ payload:
   - '+.shopifycloud.com'
   - '+.shopifystatus.com'
   - '+.shopifysvc.com'
+#cdn
   - '+.bootstrapcdn.com'
-
+#ip
   - '+.ipify.org'
+#bulianglin
   - '+.bulianglin.com'
+#javdb
   - '+.javdb.com'
+#racknerd
   - '+.racknerd.com'
