@@ -1,0 +1,23 @@
+payload:
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.claude.ai'
+  - '+.anthropic.com'
+  - '+.groq.com'
+  - '+.coze.com'
+
+  - '+.temu.com'
+  - '+.kwcdn.com'
+  - '+.shop.app'
+  - '+.shopify.com'
+  - '+.shopify.dev'
+  - '+.shopifycdn.com'
+  - '+.shopifycloud.com'
+  - '+.shopifystatus.com'
+  - '+.shopifysvc.com'
+  - '+.bootstrapcdn.com'
+
+  - '+.ipify.org'
+  - '+.bulianglin.com'
+  - '+.javdb.com'
