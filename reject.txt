@@ -1,7 +1,13 @@
 payload:
+#sentry
   - '+.sentry.io'
-  - '+.mcdn.bilivideo.cn'
-
+#xunlei
+  - '+.zl.xunlei.com'
+  - '+.ad.xunlei.com'
+  - '+.adshome.tmcdn.net'
+  - '+.admgr.joy.cn'
+  - '+.api.snoopen.com'
+#google
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
   - '+.adservice.google.com'
@@ -51,8 +57,7 @@ payload:
   - '+.wintricksbanner.googlepages.com'
   - '+.www-google-analytics.l.google.com'
   - '+.ad-creatives-public.commondatastorage.googleapis.com'
-
-  - '+.baidu-taobao-av.com'
+#baidu
   - '+.a.baidu.cn'
   - '+.adscdn.baidu.cn'
   - '+.afd.baidu.cn'
@@ -268,27 +273,9 @@ payload:
   - '+.plugin.mobopay.baidu.com'
   - '+.dj1.baidu.com'
   - '+.isite.baidu.com'
-  - '+.baidu9635.com'
-  - '+.baiduajbcjkabcav.com'
   - '+.baiduapp.app'
-  - '+.baidubdvjssv.com'
-  - '+.baidubvjsbvv.com'
-  - '+.baiduccdn1.com'
-  - '+.baidudbvjksbvs.com'
-  - '+.baidudsvbshj.com'
-  - '+.baidudvbjkbssjvsvv.com'
-  - '+.baidufkjnvbdsn.com'
-  - '+.baiduisjkbvsjkl.com'
-  - '+.baidujs.vip'
-  - '+.baidujsvbj.com'
-  - '+.baiduklglndklb.com'
-  - '+.baidunnd.top'
-  - '+.gxwlzz.baiduspider1.cn'
-  - '+.baidustatic.com'
-  - '+.baiduvjsbvjknlsvsv.com'
-  - '+.baiduyubaidu.com'
   - '+.baiduzhidahao.cc'
-
+#qq
   - '+.a.ac.qq.com'
   - '+.adping.qq.com'
   - '+.adpm.app.qq.com'
@@ -539,7 +526,7 @@ payload:
   - '+.ugcup.music.qq.com'
   - '+.ipv6.kg.qq.com'
   - '+.dns.weixin.qq.com.cn'
-
+#xiaomi
   - '+.abtest.mistat.xiaomi.com'
   - '+.abtest.mistat.xiaomi.com'
   - '+.ad.intl.xiaomi.com'
@@ -554,7 +541,7 @@ payload:
   - '+.stat.xiaomi.com'
   - '+.storeconfig.mistat.intl.xiaomi.com'
   - '+.tracker.ai.xiaomi.com'
-
+#huawei
   - '+.logservice1.dbankcloud.cn'
   - '+.adx-dre.op.hicloud.com'
   - '+.data.hicloud.com'
@@ -564,7 +551,7 @@ payload:
   - '+.logservice.hicloud.com'
   - '+.logservice1.hicloud.com'
   - '+.metrics-dra.dt.hicloud.com'
-
+#taobao
   - '+.adash.m.taobao.com'
   - '+.adash.man.aliyuncs.com'
   - '+.adashx.ut.taobao.com'
@@ -580,7 +567,7 @@ payload:
   - '+.tunion-api.m.taobao.com'
   - '+.umengacs.m.taobao.com'
   - '+.umengjmacs.m.taobao.com'
-
+#douyin
   - '+.chengzijianzhan.com'
   - '+.ad.zijieapi.com'
   - '+.mcs.snssdk.com'
