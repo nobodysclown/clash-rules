@@ -31,3 +31,5 @@ payload:
   - '+.javdb.com'
 #racknerd
   - '+.racknerd.com'
+#podcast
+  - '+.buzzsprout.com'
