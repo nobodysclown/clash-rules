@@ -1,23 +1,6 @@
 payload:
 #sentry
   - '+.sentry.io'
-#xunlei
-  - '+.mpv.sandai.net'
-  - '+.mcfg.sandai.net'
-  - '+.biz5.sandai.net'
-  - '+.float.sandai.net'
-  - '+.pubstat.sandai.net'
-  - '+.etl.xlmc.sandai.net'
-  - '+.zl.xunlei.com'
-  - '+.ad.xunlei.com'
-  - '+.mtips.xunlei.com'
-  - '+.kkpgv.xunlei.com'
-  - '+.advstat.xunlei.com'
-  - '+.recommend.xunlei.com'
-  - '+.cl.kankan.xunlei.com'
-  - '+.stat.download.xunlei.com'
-  - '+.statis.kankan.xunlei.com'
-  - '+.server1.adpolestar.net'
 #google
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
