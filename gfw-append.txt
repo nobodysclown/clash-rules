@@ -29,6 +29,7 @@ payload:
   - '+.bulianglin.com'
 #javdb
   - '+.javdb.com'
+  - '+.jdbstatic.com'
 #racknerd
   - '+.racknerd.com'
 #podcast
