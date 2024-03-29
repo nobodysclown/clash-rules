@@ -1,4 +1,7 @@
 payload:
+#apple
+  - '+.xp.apple.com'
+  - '+.itunes.apple.com'
 #chatgpt
   - '+.chatgpt.com'
   - '+.oaistatic.com'
