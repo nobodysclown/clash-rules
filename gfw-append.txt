@@ -1,5 +1,6 @@
 payload:
 #apple
+  - '+.gc.apple.com'
   - '+.xp.apple.com'
   - '+.apps.apple.com'
   - '+.itunes.apple.com'
