@@ -3,7 +3,9 @@ payload:
   - '+.gc.apple.com'
   - '+.xp.apple.com'
   - '+.apps.apple.com'
+  - '+.media.apple.com'
   - '+.itunes.apple.com'
+  - '+.mzstatic.com'
 #chatgpt
   - '+.chatgpt.com'
   - '+.oaistatic.com'
