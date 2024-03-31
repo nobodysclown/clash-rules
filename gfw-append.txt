@@ -30,6 +30,7 @@ payload:
   - '+.shopifysvc.com'
 #cdn
   - '+.bootstrapcdn.com'
+  - '+.jsdelivr.net'
 #bulianglin
   - '+.bulianglin.com'
 #javdb
