@@ -30,8 +30,6 @@ payload:
   - '+.shopifysvc.com'
 #cdn
   - '+.bootstrapcdn.com'
-#ip
-  - '+.ip.im'
 #bulianglin
   - '+.bulianglin.com'
 #javdb
