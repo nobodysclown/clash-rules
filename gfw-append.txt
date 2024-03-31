@@ -31,7 +31,7 @@ payload:
 #cdn
   - '+.bootstrapcdn.com'
 #ip
-  - '+.ipify.org'
+  - '+.ip.sb'
 #bulianglin
   - '+.bulianglin.com'
 #javdb
