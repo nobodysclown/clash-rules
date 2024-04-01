@@ -33,9 +33,6 @@ payload:
   - '+.jsdelivr.net'
 #bulianglin
   - '+.bulianglin.com'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
 #racknerd
   - '+.racknerd.com'
 #podcast
