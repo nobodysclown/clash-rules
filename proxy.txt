@@ -26,9 +26,11 @@ payload:
   - '+.shopify.com'
   - '+.shopify.dev'
   - '+.shopifycdn.com'
+  - '+.shopifyapps.com'
   - '+.shopifycloud.com'
   - '+.shopifystatus.com'
   - '+.shopifysvc.com'
+  - '+.langshop.app'
 #cdn
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
