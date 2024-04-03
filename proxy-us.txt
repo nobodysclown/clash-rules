@@ -4,3 +4,7 @@ payload:
   - '+.jdbstatic.com'
 #namoki
   - '+.namokimods.com'
+#docker
+  - '+.docker.com'
+  - '+.docker.io'
+  - '+.ghcr.io'
