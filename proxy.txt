@@ -34,10 +34,6 @@ payload:
 #cdn
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
-#docker
-  - '+.docker.com'
-  - '+.docker.io'
-  - '+.ghcr.io'
 #bulianglin
   - '+.bulianglin.com'
 #racknerd
