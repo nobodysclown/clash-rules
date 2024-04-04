@@ -1,6 +1,7 @@
 payload:
-#sentry
+#analytics
   - '+.sentry.io'
+  - '+.app-measurement.com'
 #google
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
