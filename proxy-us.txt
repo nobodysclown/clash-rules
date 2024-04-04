@@ -1,6 +1,0 @@
-payload:
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-#namoki
-  - '+.namokimods.com'
