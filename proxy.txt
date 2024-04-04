@@ -40,3 +40,8 @@ payload:
   - '+.racknerd.com'
 #podcast
   - '+.buzzsprout.com'
+#javdb
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
+#namoki
+  - '+.namokimods.com'
