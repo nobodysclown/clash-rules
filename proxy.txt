@@ -31,6 +31,8 @@ payload:
   - '+.shopifystatus.com'
   - '+.shopifysvc.com'
   - '+.langshop.app'
+#ebayimg
+  - '+.ebayimg.com'
 #cdn
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
