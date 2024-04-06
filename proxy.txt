@@ -6,6 +6,8 @@ payload:
   - '+.media.apple.com'
   - '+.itunes.apple.com'
   - '+.mzstatic.com'
+#perplexity
+  - '+.perplexity.ai'
 #chatgpt
   - '+.openai.com'
   - '+.chatgpt.com'
