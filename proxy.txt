@@ -10,6 +10,8 @@ payload:
   - '+.perplexity.ai'
 #pages
   - '+.pages.dev'
+#azure
+  - '+.azure.com'
 #chatgpt
   - '+.openai.com'
   - '+.chatgpt.com'
