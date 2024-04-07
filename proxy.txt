@@ -8,6 +8,8 @@ payload:
   - '+.mzstatic.com'
 #perplexity
   - '+.perplexity.ai'
+#pages
+  - '+.pages.dev'
 #chatgpt
   - '+.openai.com'
   - '+.chatgpt.com'
