@@ -12,6 +12,7 @@ payload:
   - '+.pages.dev'
 #azure
   - '+.azure.com'
+  - '+.azure.microsoft.com'
 #chatgpt
   - '+.openai.com'
   - '+.chatgpt.com'
