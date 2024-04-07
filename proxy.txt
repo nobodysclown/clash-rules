@@ -1,4 +1,8 @@
 payload:
+#webserver
+  - '+.racknerd.com'
+  - '+.pages.dev'
+  - '+.sealos.io'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
@@ -6,25 +10,16 @@ payload:
   - '+.media.apple.com'
   - '+.itunes.apple.com'
   - '+.mzstatic.com'
-#perplexity
-  - '+.perplexity.ai'
-#pages
-  - '+.pages.dev'
-#azure
-  - '+.azure.com'
-  - '+.azure.microsoft.com'
-#chatgpt
+#ai
   - '+.openai.com'
   - '+.chatgpt.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
-#claude
   - '+.claude.ai'
   - '+.anthropic.com'
-#groq
   - '+.groq.com'
-#coze
   - '+.coze.com'
+  - '+.perplexity.ai'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
@@ -38,15 +33,12 @@ payload:
   - '+.shopifystatus.com'
   - '+.shopifysvc.com'
   - '+.langshop.app'
-#ebayimg
-  - '+.ebayimg.com'
 #cdn
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
+  - '+.ebayimg.com'
 #bulianglin
   - '+.bulianglin.com'
-#racknerd
-  - '+.racknerd.com'
 #podcast
   - '+.buzzsprout.com'
 #javdb
