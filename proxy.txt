@@ -3,6 +3,7 @@ payload:
   - '+.racknerd.com'
   - '+.pages.dev'
   - '+.sealos.io'
+  - '+.glitch.me'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
