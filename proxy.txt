@@ -4,6 +4,7 @@ payload:
   - '+.pages.dev'
   - '+.sealos.io'
   - '+.glitch.me'
+  - '+.x.com'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
