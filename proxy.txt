@@ -5,6 +5,7 @@ payload:
   - '+.sealos.io'
   - '+.glitch.me'
   - '+.x.com'
+  - '+.openwrt.org'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
