@@ -2,7 +2,7 @@ payload:
 #webserver
   - '+.racknerd.com'
   - '+.pages.dev'
-  - '+.sealos.io'
+  - '+.glitch.com'
   - '+.glitch.me'
   - '+.x.com'
   - '+.openwrt.org'
