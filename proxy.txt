@@ -1,11 +1,12 @@
 payload:
 #webserver
+  - '+.x.com'
+  - '+.openwrt.org'
   - '+.racknerd.com'
   - '+.pages.dev'
   - '+.glitch.com'
   - '+.glitch.me'
-  - '+.x.com'
-  - '+.openwrt.org'
+  - '+.vercel.sh'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
