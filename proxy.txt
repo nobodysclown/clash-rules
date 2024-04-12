@@ -4,6 +4,7 @@ payload:
   - '+.openwrt.org'
   - '+.racknerd.com'
   - '+.pages.dev'
+  - '+.zeabur.com'
   - '+.glitch.com'
   - '+.glitch.me'
   - '+.vercel.sh'
