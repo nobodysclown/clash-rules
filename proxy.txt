@@ -11,6 +11,7 @@ payload:
   - '+.docker.com'
   - '+.docker.io'
   - '+.cron-job.org'
+
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
@@ -49,8 +50,10 @@ payload:
   - '+.bulianglin.com'
 #podcast
   - '+.buzzsprout.com'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
 #namoki
   - '+.namokimods.com'
+
+#1
+  - '+.stripchat.com'
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
