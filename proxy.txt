@@ -29,6 +29,7 @@ payload:
   - '+.groq.com'
   - '+.coze.com'
   - '+.perplexity.ai'
+  - '+.cohere.com'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
