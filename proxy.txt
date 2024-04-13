@@ -54,6 +54,7 @@ payload:
   - '+.namokimods.com'
 
 #1
-  - '+.stripchat.com'
   - '+.javdb.com'
   - '+.jdbstatic.com'
+  - '+.stripchat.com'
+  - '+.doppiocdn.com'
