@@ -10,6 +10,7 @@ payload:
   - '+.vercel.sh'
   - '+.docker.com'
   - '+.docker.io'
+  - '+.cron-job.org'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
