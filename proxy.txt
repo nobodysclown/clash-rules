@@ -1,6 +1,7 @@
 payload:
 #webserver
   - '+.x.com'
+  - '+.ufc.com'
   - '+.openwrt.org'
   - '+.racknerd.com'
   - '+.pages.dev'
@@ -11,7 +12,6 @@ payload:
   - '+.docker.com'
   - '+.docker.io'
   - '+.cron-job.org'
-
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
@@ -53,8 +53,7 @@ payload:
   - '+.buzzsprout.com'
 #namoki
   - '+.namokimods.com'
-
-#1
+#x
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.stripchat.com'
