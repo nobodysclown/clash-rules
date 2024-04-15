@@ -56,5 +56,3 @@ payload:
 #x
   - '+.javdb.com'
   - '+.jdbstatic.com'
-  - '+.stripchat.com'
-  - '+.doppiocdn.com'
