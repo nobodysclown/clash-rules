@@ -47,6 +47,7 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
   - '+.ebayimg.com'
+  - '+.scdn.co'
 #bulianglin
   - '+.bulianglin.com'
 #podcast
