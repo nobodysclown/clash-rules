@@ -30,6 +30,7 @@ payload:
   - '+.coze.com'
   - '+.perplexity.ai'
   - '+.cohere.com'
+  - '+.cohere.ai'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
