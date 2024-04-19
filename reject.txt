@@ -1,7 +1,9 @@
 payload:
 #analytics
   - '+.sentry.io'
+  - '+.plausible.io'
   - '+.app-measurement.com'
+  - '+.app-analytics-services.com'
 #google
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
