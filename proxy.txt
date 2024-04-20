@@ -33,6 +33,7 @@ payload:
   - '+.perplexity.ai'
   - '+.cohere.com'
   - '+.cohere.ai'
+  - '+.huggingface.co'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
