@@ -29,7 +29,6 @@ payload:
   - '+.anthropic.com'
   - '+.groq.com'
   - '+.coze.com'
-  - '+.perplexity.ai'
   - '+.cohere.com'
   - '+.cohere.ai'
   - '+.huggingface.co'
