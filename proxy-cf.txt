@@ -1,3 +1,4 @@
 payload:
 #emby
   - '+.imetyou.top'
+  - '+.perplexity.ai'
