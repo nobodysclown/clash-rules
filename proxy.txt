@@ -12,8 +12,7 @@ payload:
   - '+.docker.com'
   - '+.docker.io'
   - '+.cron-job.org'
-  - '+.nodejs.org'
-  - '+.npmjs.org'
+  - '+.omnivore.app'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
