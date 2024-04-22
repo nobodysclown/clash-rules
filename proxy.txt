@@ -32,6 +32,7 @@ payload:
   - '+.cohere.com'
   - '+.cohere.ai'
   - '+.huggingface.co'
+  - '+.ciciai.com'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
