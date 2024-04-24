@@ -34,6 +34,7 @@ payload:
   - '+.huggingface.co'
   - '+.ciciai.com'
   - '+.perplexity.ai'
+  - '+.phind.com'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
