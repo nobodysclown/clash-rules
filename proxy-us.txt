@@ -1,7 +1,6 @@
 payload:
 #website
   - '+.namokimods.com'
-  - '+.ebayimg.com'
   - '+.javdb.com'
   - '+.jdbstatic.com'
 #ai
