@@ -62,6 +62,3 @@ payload:
   - '+.buzzsprout.com'
 #namoki
   - '+.namokimods.com'
-#x
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
