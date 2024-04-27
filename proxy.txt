@@ -14,6 +14,7 @@ payload:
   - '+.cron-job.org'
   - '+.omnivore.app'
   - '+.raycast.com'
+  - '+.render.com'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
