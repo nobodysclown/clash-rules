@@ -1,5 +1,5 @@
 payload:
-#webserver
+#website
   - '+.x.com'
   - '+.ufc.com'
   - '+.openwrt.org'
@@ -15,6 +15,7 @@ payload:
   - '+.omnivore.app'
   - '+.raycast.com'
   - '+.render.com'
+  - '+.ebayimg.com'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
@@ -35,12 +36,6 @@ payload:
   - '+.shopifystatus.com'
   - '+.shopifysvc.com'
   - '+.langshop.app'
-#cdn
-  - '+.challenges.cloudflare.com'
-  - '+.bootstrapcdn.com'
-  - '+.jsdelivr.net'
-  - '+.ebayimg.com'
-  - '+.scdn.co'
 #bulianglin
   - '+.bulianglin.com'
 #podcast
