@@ -60,5 +60,3 @@ payload:
   - '+.bulianglin.com'
 #podcast
   - '+.buzzsprout.com'
-#namoki
-  - '+.namokimods.com'
