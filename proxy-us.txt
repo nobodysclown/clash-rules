@@ -1,4 +1,9 @@
 payload:
+#website
+  - '+.namokimods.com'
+  - '+.ebayimg.com'
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
 #ai
   - '+.openai.com'
   - '+.chatgpt.com'
@@ -14,8 +19,3 @@ payload:
   - '+.ciciai.com'
   - '+.perplexity.ai'
   - '+.phind.com'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-#namoki
-  - '+.namokimods.com'
