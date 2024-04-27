@@ -1,4 +1,19 @@
 payload:
+#ai
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.claude.ai'
+  - '+.anthropic.com'
+  - '+.groq.com'
+  - '+.coze.com'
+  - '+.cohere.com'
+  - '+.cohere.ai'
+  - '+.huggingface.co'
+  - '+.ciciai.com'
+  - '+.perplexity.ai'
+  - '+.phind.com'
 #javdb
   - '+.javdb.com'
   - '+.jdbstatic.com'
