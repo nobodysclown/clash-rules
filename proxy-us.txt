@@ -1,6 +1,5 @@
 payload:
 #website
-  - '+.v2ex.com'
   - '+.namokimods.com'
   - '+.javdb.com'
   - '+.jdbstatic.com'
@@ -9,13 +8,10 @@ payload:
   - '+.chatgpt.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
-  - '+.claude.ai'
-  - '+.anthropic.com'
   - '+.groq.com'
   - '+.coze.com'
   - '+.cohere.com'
   - '+.cohere.ai'
   - '+.huggingface.co'
-  - '+.ciciai.com'
   - '+.perplexity.ai'
   - '+.phind.com'
