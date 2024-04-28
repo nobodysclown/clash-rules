@@ -17,6 +17,7 @@ payload:
   - '+.render.com'
   - '+.ebayimg.com'
   - '+.teracloud.jp'
+  - '+.nvidia.com'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
