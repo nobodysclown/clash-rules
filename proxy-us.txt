@@ -1,7 +1,7 @@
 payload:
 #website
-  - '+.namokimods.com'
   - '+.v2ex.com'
+  - '+.namokimods.com'
   - '+.javdb.com'
   - '+.jdbstatic.com'
 #ai
