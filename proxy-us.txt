@@ -15,3 +15,4 @@ payload:
   - '+.huggingface.co'
   - '+.perplexity.ai'
   - '+.phind.com'
+  - '+.lmsys.org'
