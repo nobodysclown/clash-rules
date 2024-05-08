@@ -3,6 +3,7 @@ payload:
   - '+.namokimods.com'
 #microsoft
   - '+.microsoftonline.com'
+  - '+.msftauth.net'
   - '+.live.com'
 #jav
   - '+.javdb.com'
