@@ -1,6 +1,10 @@
 payload:
-#website
+#namokimods
   - '+.namokimods.com'
+#microsoft
+  - '+.microsoftonline.com'
+  - '+.live.com'
+#jav
   - '+.javdb.com'
   - '+.jdbstatic.com'
 #ai
