@@ -26,7 +26,10 @@ payload:
   - '+.itunes.apple.com'
   - '+.mzstatic.com'
 #temu
-  - '+.temu.com'
+  - '+.locale.temu.com'
+  - '+.us.temu.com'
+  - '+.thtk.temu.com'
+  - '+.pftk.temu.com'
   - '+.kwcdn.com'
 #shopify
   - '+.shop.app'
