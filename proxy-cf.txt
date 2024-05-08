@@ -2,6 +2,5 @@ payload:
 #emby
   - '+.imetyou.top'
 #cdn
-  - '+.challenges.cloudflare.com'
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
