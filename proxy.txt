@@ -18,9 +18,6 @@ payload:
   - '+.ebayimg.com'
   - '+.teracloud.jp'
   - '+.nvidia.com'
-#microsoft
-  - '+.microsoftonline.com'
-  - '+.live.com'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
