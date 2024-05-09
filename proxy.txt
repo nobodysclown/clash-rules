@@ -5,19 +5,35 @@ payload:
   - '+.openwrt.org'
   - '+.racknerd.com'
   - '+.pages.dev'
-  - '+.zeabur.com'
-  - '+.glitch.com'
-  - '+.glitch.me'
-  - '+.vercel.sh'
-  - '+.docker.com'
-  - '+.docker.io'
-  - '+.cron-job.org'
   - '+.omnivore.app'
   - '+.raycast.com'
   - '+.render.com'
   - '+.ebayimg.com'
   - '+.teracloud.jp'
   - '+.nvidia.com'
+  - '+.namokimods.com'
+#docker
+  - '+.docker.com'
+  - '+.docker.io'
+#microsoft
+  - '+.microsoftonline.com'
+  - '+.msftauth.net'
+  - '+.live.com'
+#openai
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.auth0.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+#groq
+  - '+.groq.com'
+#coze
+  - '+.coze.com'
+#cohere
+  - '+.cohere.com'
+  - '+.cohere.ai'
+#huggingface
+  - '+.huggingface.co'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
@@ -45,3 +61,6 @@ payload:
   - '+.bulianglin.com'
 #podcast
   - '+.buzzsprout.com'
+#jav
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
