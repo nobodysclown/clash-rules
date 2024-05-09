@@ -1,6 +1,0 @@
-payload:
-#emby
-  - '+.imetyou.top'
-#cdn
-  - '+.bootstrapcdn.com'
-  - '+.jsdelivr.net'
