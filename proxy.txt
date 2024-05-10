@@ -12,6 +12,8 @@ payload:
   - '+.teracloud.jp'
   - '+.nvidia.com'
   - '+.namokimods.com'
+#emby
+  - '+.imetyou.top'
 #docker
   - '+.docker.com'
   - '+.docker.io'
