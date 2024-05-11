@@ -66,6 +66,7 @@ payload:
 #jav
   - '+.javdb.com'
   - '+.jdbstatic.com'
+  - '+.fengyunjiaoyu.xyz'
 #cdn
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
