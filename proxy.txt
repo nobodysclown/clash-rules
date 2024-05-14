@@ -11,6 +11,7 @@ payload:
   - '+.ebayimg.com'
   - '+.teracloud.jp'
   - '+.nvidia.com'
+  - '+.vercel.com'
   - '+.namokimods.com'
 #emby
   - '+.imetyou.top'
