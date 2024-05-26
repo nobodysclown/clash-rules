@@ -12,6 +12,7 @@ payload:
   - '+.teracloud.jp'
   - '+.nvidia.com'
   - '+.vercel.com'
+  - '+.linux.do'
   - '+.namokimods.com'
 #emby
   - '+.imetyou.top'
