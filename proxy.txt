@@ -14,9 +14,18 @@ payload:
   - '+.vercel.com'
   - '+.linux.do'
   - '+.namokimods.com'
-#zoom
-  - '+.zoom.us'
-  - '+.zoom.com'
+#tiktok
+  - '+.tiktok.com'
+  - '+.tiktokcdn.com'
+  - '+.ttwstatic.com'
+  - '+.tiktokv.com'
+  - '+.snssdk.com'
+  - '+.byteoversea.com'
+  - '+.ibytedtos.com'
+  - '+.ibyteimg.com'
+  - '+.ipstatp.com'
+  - '+.muscdn.com'
+  - '+.musical.ly'
 #emby
   - '+.imetyou.top'
 #docker
@@ -33,8 +42,6 @@ payload:
   - '+.bing.com'
   - '+.bingapis.com'
   - '+.api.msn.com'
-
-
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
