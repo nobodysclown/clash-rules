@@ -17,8 +17,9 @@ payload:
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokcdn.com'
-  - '+.ttwstatic.com'
+  - '+.tiktokcdn-us.com'
   - '+.tiktokv.com'
+  - '+.ttwstatic.com'
   - '+.snssdk.com'
   - '+.byteoversea.com'
   - '+.ibytedtos.com'
