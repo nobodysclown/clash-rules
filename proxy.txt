@@ -14,6 +14,10 @@ payload:
   - '+.vercel.com'
   - '+.linux.do'
   - '+.namokimods.com'
+#cod
+  - '+.prod.demonware.net'
+  - '+.activision.com'
+  - '+.actual.battle.net'
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokcdn.com'
