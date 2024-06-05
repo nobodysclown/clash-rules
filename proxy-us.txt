@@ -3,6 +3,8 @@ payload:
   - '+.namokimods.com'
 #v2ex
   - '+.v2ex.com'
+#gemini
+  - '+.gemini.google.com'
 #cod
   - '+.prod.demonware.net'
   - '+.activision.com'
