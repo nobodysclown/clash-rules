@@ -4,7 +4,6 @@ payload:
   - '+.ufc.com'
   - '+.openwrt.org'
   - '+.racknerd.com'
-  - '+.pages.dev'
   - '+.omnivore.app'
   - '+.raycast.com'
   - '+.render.com'
@@ -13,41 +12,10 @@ payload:
   - '+.nvidia.com'
   - '+.vercel.com'
   - '+.linux.do'
-  - '+.namokimods.com'
   - '+.supercell.com'
-#cod
-  - '+.prod.demonware.net'
-  - '+.activision.com'
-  - '+.actual.battle.net'
-#tiktok
-  - '+.tiktok.com'
-  - '+.tiktokcdn.com'
-  - '+.tiktokcdn-us.com'
-  - '+.tiktokv.com'
-  - '+.ttwstatic.com'
-  - '+.snssdk.com'
-  - '+.byteoversea.com'
-  - '+.ibytedtos.com'
-  - '+.ibyteimg.com'
-  - '+.ipstatp.com'
-  - '+.muscdn.com'
-  - '+.musical.ly'
-#emby
-  - '+.imetyou.top'
 #docker
   - '+.docker.com'
   - '+.docker.io'
-#microsoft
-  - '+.microsoftonline.com'
-  - '+.msftauth.net'
-#copilot
-  - '+.copilot.microsoft.com'
-  - '+.location.microsoft.com'
-  - '+.bingviz.microsoft.net'
-  - '+.bingviz.microsoftapp.net'
-  - '+.bing.com'
-  - '+.bingapis.com'
-  - '+.api.msn.com'
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
@@ -70,13 +38,6 @@ payload:
   - '+.media.apple.com'
   - '+.itunes.apple.com'
   - '+.mzstatic.com'
-#temu
-  - '+.temu.com'
-  - '+.locale.temu.com'
-  - '+.us.temu.com'
-  - '+.thtk.temu.com'
-  - '+.pftk.temu.com'
-  - '+.kwcdn.com'
 #shopify
   - '+.shop.app'
   - '+.shopify.com'
@@ -91,10 +52,3 @@ payload:
   - '+.bulianglin.com'
 #podcast
   - '+.buzzsprout.com'
-#jav
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-  - '+.fengyunjiaoyu.xyz'
-#cdn
-  - '+.bootstrapcdn.com'
-  - '+.jsdelivr.net'
