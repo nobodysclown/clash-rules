@@ -1,8 +1,7 @@
 payload:
-#namoki
   - '+.namokimods.com'
-#v2ex
   - '+.v2ex.com'
+  - '+.linux.do'
 #gemini
   - '+.gemini.google.com'
 #cod
