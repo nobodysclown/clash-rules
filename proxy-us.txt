@@ -1,3 +1,42 @@
 payload:
 #ubi
   - '+.namokimods.com'
+#cod
+  - '+.prod.demonware.net'
+  - '+.activision.com'
+  - '+.actual.battle.net'
+#tiktok
+  - '+.tiktok.com'
+  - '+.tiktokcdn.com'
+  - '+.tiktokcdn-us.com'
+  - '+.tiktokv.com'
+  - '+.ttwstatic.com'
+  - '+.snssdk.com'
+  - '+.byteoversea.com'
+  - '+.ibytedtos.com'
+  - '+.ibyteimg.com'
+  - '+.ipstatp.com'
+  - '+.muscdn.com'
+  - '+.musical.ly'
+#microsoft
+  - '+.microsoftonline.com'
+  - '+.msftauth.net'
+#copilot
+  - '+.copilot.microsoft.com'
+  - '+.location.microsoft.com'
+  - '+.bingviz.microsoft.net'
+  - '+.bingviz.microsoftapp.net'
+  - '+.bing.com'
+  - '+.bingapis.com'
+  - '+.api.msn.com'
+#temu
+  - '+.temu.com'
+  - '+.locale.temu.com'
+  - '+.us.temu.com'
+  - '+.thtk.temu.com'
+  - '+.pftk.temu.com'
+  - '+.kwcdn.com'
+#jav
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
+  - '+.fengyunjiaoyu.xyz'
