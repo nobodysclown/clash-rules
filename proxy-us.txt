@@ -1,5 +1,5 @@
 payload:
-#ubi
+#namoki
   - '+.namokimods.com'
 #cod
   - '+.prod.demonware.net'
