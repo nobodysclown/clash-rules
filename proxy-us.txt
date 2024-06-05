@@ -1,6 +1,8 @@
 payload:
 #namoki
   - '+.namokimods.com'
+#v2ex
+  - '+.v2ex.com'
 #cod
   - '+.prod.demonware.net'
   - '+.activision.com'
