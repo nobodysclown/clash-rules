@@ -2,6 +2,7 @@ payload:
   - '+.namokimods.com'
   - '+.v2ex.com'
   - '+.linux.do'
+  - '+.supercell.com'
 #gemini
   - '+.gemini.google.com'
 #cod
