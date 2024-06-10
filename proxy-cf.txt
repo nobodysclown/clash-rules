@@ -1,6 +1,4 @@
 payload:
-#supercell
-  - '+.supercell.com'
 #ubi
   - '+.uplaypc-s-ubisoft.cdn.ubi.com'
 #emby
