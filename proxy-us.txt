@@ -4,10 +4,6 @@ payload:
   - '+.linux.do'
 #gemini
   - '+.gemini.google.com'
-#cod
-  - '+.prod.demonware.net'
-  - '+.activision.com'
-  - '+.actual.battle.net'
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokw.us'
