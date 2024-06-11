@@ -50,3 +50,7 @@ payload:
   - '+.bulianglin.com'
 #podcast
   - '+.buzzsprout.com'
+#cod
+  - '+.prod.demonware.net'
+  - '+.activision.com'
+  - '+.actual.battle.net'
