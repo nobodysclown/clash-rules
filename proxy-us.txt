@@ -1,4 +1,5 @@
 payload:
+  - '+.payoneer.com'
   - '+.namokimods.com'
   - '+.v2ex.com'
   - '+.linux.do'
