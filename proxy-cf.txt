@@ -1,6 +1,8 @@
 payload:
 #ubi
   - '+.uplaypc-s-ubisoft.cdn.ubi.com'
+  - '+.d.akamai.net'
+
 #emby
   - '+.imetyou.top'
 #cdn
