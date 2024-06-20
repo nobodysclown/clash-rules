@@ -11,6 +11,7 @@ payload:
   - '+.teracloud.jp'
   - '+.nvidia.com'
   - '+.vercel.com'
+  - '+.genspark.ai'
 #docker
   - '+.docker.com'
   - '+.docker.io'
