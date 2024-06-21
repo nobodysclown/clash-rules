@@ -1,5 +1,4 @@
 payload:
-#website
   - '+.x.com'
   - '+.ufc.com'
   - '+.openwrt.org'
@@ -29,6 +28,14 @@ payload:
   - '+.bulianglin.com'
 #podcast
   - '+.buzzsprout.com'
+#emby
+  - '+.imetyou.top'
+#cdn
+  - '+.bootstrapcdn.com'
+  - '+.jsdelivr.net'
+  - '+.akamai.net'
+#ubi
+  - '+.ubi.com'
 #cod
   - '+.prod.demonware.net'
   - '+.activision.com'
