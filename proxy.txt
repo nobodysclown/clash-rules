@@ -30,6 +30,9 @@ payload:
   - '+.cohere.ai'
 #huggingface
   - '+.huggingface.co'
+#claude
+  - '+.claude.ai'
+  - '+.anthropic.com'
 #apple
   - '+.gc.apple.com'
   - '+.xp.apple.com'
