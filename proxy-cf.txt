@@ -1,9 +1,0 @@
-payload:
-#ubi
-  - '+.ubi.com'
-#emby
-  - '+.imetyou.top'
-#cdn
-  - '+.bootstrapcdn.com'
-  - '+.jsdelivr.net'
-  - '+.akamai.net'
