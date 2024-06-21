@@ -3,8 +3,33 @@ payload:
   - '+.namokimods.com'
   - '+.v2ex.com'
   - '+.linux.do'
+#openai
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.auth0.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+#groq
+  - '+.groq.com'
+#coze
+  - '+.coze.com'
+#cohere
+  - '+.cohere.com'
+  - '+.cohere.ai'
 #gemini
   - '+.gemini.google.com'
+#huggingface
+  - '+.huggingface.co'
+#claude
+  - '+.claude.ai'
+  - '+.anthropic.com'
+#apple
+  - '+.gc.apple.com'
+  - '+.xp.apple.com'
+  - '+.apps.apple.com'
+  - '+.media.apple.com'
+  - '+.itunes.apple.com'
+  - '+.mzstatic.com'
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokw.us'
