@@ -29,6 +29,7 @@ payload:
   - '+.apps.apple.com'
   - '+.media.apple.com'
   - '+.itunes.apple.com'
+  - '+.testflight.apple.com'
   - '+.mzstatic.com'
 #tiktok
   - '+.tiktok.com'
