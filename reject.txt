@@ -1,4 +1,6 @@
 payload:
+#sogou
+  - '+.config.pinyin.sogou.com'
 #google
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
