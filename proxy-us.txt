@@ -58,10 +58,6 @@ payload:
   - '+.api.msn.com'
 #temu
   - '+.temu.com'
-  - '+.locale.temu.com'
-  - '+.us.temu.com'
-  - '+.thtk.temu.com'
-  - '+.pftk.temu.com'
   - '+.kwcdn.com'
 #jav
   - '+.javdb.com'
