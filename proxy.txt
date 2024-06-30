@@ -34,8 +34,6 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
   - '+.akamai.net'
-#ubi
-  - '+.ubi.com'
 #cod
   - '+.prod.demonware.net'
   - '+.activision.com'
