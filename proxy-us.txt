@@ -23,14 +23,6 @@ payload:
 #claude
   - '+.claude.ai'
   - '+.anthropic.com'
-#apple
-  - '+.gc.apple.com'
-  - '+.xp.apple.com'
-  - '+.apps.apple.com'
-  - '+.media.apple.com'
-  - '+.itunes.apple.com'
-  - '+.testflight.apple.com'
-  - '+.mzstatic.com'
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokw.us'
