@@ -1,6 +1,4 @@
 payload:
-#wetype
-  - '+.wetype.weixin.qq.com'
 #sogou
   - '+.cloud.pinyin.sogou.com'
   - '+.ping.pinyin.sogou.com'
