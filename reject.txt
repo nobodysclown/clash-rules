@@ -1,4 +1,5 @@
 payload:
+  - '+.trafficmanager.net'
 #sogou
   - '+.cloud.pinyin.sogou.com'
   - '+.ping.pinyin.sogou.com'
