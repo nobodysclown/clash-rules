@@ -59,7 +59,6 @@ payload:
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
-  - '+.locale-temu-com.trafficmanager.net'
 #jav
   - '+.javdb.com'
   - '+.jdbstatic.com'
