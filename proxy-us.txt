@@ -3,6 +3,8 @@ payload:
   - '+.namokimods.com'
   - '+.v2ex.com'
   - '+.linux.do'
+#perplexity
+  - '+.perplexity.ai'
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
