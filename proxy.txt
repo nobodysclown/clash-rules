@@ -23,7 +23,6 @@ payload:
   - '+.updates-http.cdn-apple.com'
   - '+.updates.cdn-apple.com'
   - '+.xp.apple.com'
-  - '+.itunes.apple.com'
   - '+.apps.apple.com'
   - '+.mzstatic.com'
 #docker
