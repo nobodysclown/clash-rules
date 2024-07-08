@@ -32,7 +32,6 @@ payload:
   - '+.tiktokcdn-us.com'
   - '+.tiktokv.com'
   - '+.ttwstatic.com'
-  - '+.snssdk.com'
   - '+.byteoversea.com'
   - '+.ibytedtos.com'
   - '+.ibyteimg.com'
