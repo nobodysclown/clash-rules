@@ -11,7 +11,7 @@ payload:
   - '+.nvidia.com'
   - '+.vercel.com'
   - '+.genspark.ai'
-  - '+.hoyoverse.com'
+  - '+.stash.ws'
 #apple
   - '+.appldnld.apple.com'
   - '+.gdmf.apple.com'
