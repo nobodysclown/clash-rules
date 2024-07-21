@@ -1,17 +1,16 @@
 payload:
-  - '+.x.com'
   - '+.ufc.com'
-  - '+.openwrt.org'
   - '+.racknerd.com'
   - '+.omnivore.app'
-  - '+.raycast.com'
-  - '+.render.com'
+  - '+.genspark.ai'
   - '+.ebayimg.com'
   - '+.teracloud.jp'
   - '+.nvidia.com'
+  - '+.render.com'
   - '+.vercel.com'
-  - '+.genspark.ai'
-  - '+.stash.ws'
+#openwrt
+  - '+.openwrt.org'
+  - '+.dl.istoreos.com'
 #apple
   - '+.appldnld.apple.com'
   - '+.gdmf.apple.com'
