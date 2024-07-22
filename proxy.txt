@@ -11,6 +11,9 @@ payload:
 #openwrt
   - '+.openwrt.org'
   - '+.dl.istoreos.com'
+#docker
+  - '+.docker.com'
+  - '+.docker.io'
 #apple
   - '+.appldnld.apple.com'
   - '+.gdmf.apple.com'
@@ -24,9 +27,6 @@ payload:
   - '+.xp.apple.com'
   - '+.apps.apple.com'
   - '+.mzstatic.com'
-#docker
-  - '+.docker.com'
-  - '+.docker.io'
 #shopify
   - '+.shop.app'
   - '+.shopify.com'
