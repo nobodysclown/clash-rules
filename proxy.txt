@@ -1,6 +1,5 @@
 payload:
   - '+.ufc.com'
-  - '+.racknerd.com'
   - '+.omnivore.app'
   - '+.genspark.ai'
   - '+.ebayimg.com'
