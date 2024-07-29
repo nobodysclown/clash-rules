@@ -15,8 +15,8 @@ payload:
   - '+.docker.io'
 #apple
   - '+.xp.apple.com'
+  - '+.apps.apple.com'
   - '+.itunes.apple.com'
-
 #shopify
   - '+.shop.app'
   - '+.shopify.com'
