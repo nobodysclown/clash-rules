@@ -20,7 +20,7 @@ payload:
   - '+.gs.apple.com'
   - '+.ig.apple.com'
   - '+.mesu.apple.com'
-  - '+.itunes.apple.com'
+  - '+.ns.itunes.apple.com'
   - '+.updates-http.cdn-apple.com'
   - '+.updates.cdn-apple.com'
   - '+.xp.apple.com'
