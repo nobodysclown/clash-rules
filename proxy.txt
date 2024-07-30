@@ -14,9 +14,17 @@ payload:
   - '+.docker.com'
   - '+.docker.io'
 #apple
+  - '+.appldnld.apple.com'
+  - '+.gdmf.apple.com'
+  - '+.gg.apple.com'
+  - '+.gs.apple.com'
+  - '+.mesu.apple.com'
+  - '+.updates-http.cdn-apple.com'
+  - '+.updates.cdn-apple.com'
   - '+.xp.apple.com'
-  - '+.apps.apple.com'
   - '+.itunes.apple.com'
+  - '+.apps.apple.com'
+  - '+.mzstatic.com'
 #shopify
   - '+.shop.app'
   - '+.shopify.com'
