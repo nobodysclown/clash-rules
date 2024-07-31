@@ -1,12 +1,70 @@
 payload:
+  - '+.namokimods.com'
+  - '+.v2ex.com'
+  - '+.linux.do'
   - '+.ufc.com'
   - '+.omnivore.app'
-  - '+.genspark.ai'
-  - '+.ebayimg.com'
   - '+.teracloud.jp'
   - '+.nvidia.com'
   - '+.render.com'
   - '+.vercel.com'
+#ebay
+  - '+.ebayimg.com'
+  - '+.payoneer.com'
+#cloudflare
+  - '+.cloudflare.com'
+#perplexity
+  - '+.perplexity.ai'
+#openai
+  - '+.openai.com'
+  - '+.chatgpt.com'
+  - '+.auth0.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+#groq
+  - '+.groq.com'
+#coze
+  - '+.coze.com'
+#cohere
+  - '+.cohere.com'
+  - '+.cohere.ai'
+#gemini
+  - '+.gemini.google.com'
+#huggingface
+  - '+.huggingface.co'
+#claude
+  - '+.claude.ai'
+  - '+.anthropic.com'
+#docker
+  - '+.docker.com'
+  - '+.docker.io'
+#tiktok
+  - '+.tiktok.com'
+  - '+.tiktokw.us'
+  - '+.tiktokcdn.com'
+  - '+.tiktokcdn-us.com'
+  - '+.tiktokv.com'
+  - '+.ttwstatic.com'
+  - '+.byteoversea.com'
+  - '+.ibytedtos.com'
+  - '+.ibyteimg.com'
+  - '+.ipstatp.com'
+  - '+.muscdn.com'
+  - '+.musical.ly'
+#microsoft
+  - '+.microsoftonline.com'
+  - '+.msftauth.net'
+#copilot
+  - '+.copilot.microsoft.com'
+  - '+.location.microsoft.com'
+  - '+.bingviz.microsoft.net'
+  - '+.bingviz.microsoftapp.net'
+  - '+.bing.com'
+  - '+.bingapis.com'
+  - '+.api.msn.com'
+#temu
+  - '+.temu.com'
+  - '+.kwcdn.com'
 #openwrt
   - '+.openwrt.org'
   - '+.dl.istoreos.com'
@@ -46,3 +104,7 @@ payload:
   - '+.prod.demonware.net'
   - '+.activision.com'
   - '+.actual.battle.net'
+#jav
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
+  - '+.fengyunjiaoyu.xyz'
