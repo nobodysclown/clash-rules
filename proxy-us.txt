@@ -27,6 +27,9 @@ payload:
 #claude
   - '+.claude.ai'
   - '+.anthropic.com'
+#docker
+  - '+.docker.com'
+  - '+.docker.io'
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokw.us'
