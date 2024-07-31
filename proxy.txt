@@ -10,9 +10,6 @@ payload:
 #openwrt
   - '+.openwrt.org'
   - '+.dl.istoreos.com'
-#docker
-  - '+.docker.com'
-  - '+.docker.io'
 #apple
   - '+.appldnld.apple.com'
   - '+.gdmf.apple.com'
