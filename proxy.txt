@@ -10,6 +10,7 @@ payload:
   - '+.vercel.com'
 #pluto
   - '+.pluto.tv'
+  - '+.plutotv.net'
   - '+.onetrust.com'
   - '+.cbsi.com'
   - '+.paramount.com'
