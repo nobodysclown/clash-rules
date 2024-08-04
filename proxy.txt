@@ -14,6 +14,7 @@ payload:
   - '+.onetrust.com'
   - '+.cbsi.com'
   - '+.paramount.com'
+  - '+.rspcdn.net'
 #ebay
   - '+.ebayimg.com'
   - '+.payoneer.com'
