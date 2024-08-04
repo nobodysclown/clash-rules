@@ -8,6 +8,7 @@ payload:
   - '+.nvidia.com'
   - '+.render.com'
   - '+.vercel.com'
+  - '+.pluto.tv'
 #ebay
   - '+.ebayimg.com'
   - '+.payoneer.com'
