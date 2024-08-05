@@ -1,5 +1,4 @@
 payload:
-  - '+.namokimods.com'
   - '+.v2ex.com'
   - '+.linux.do'
   - '+.ufc.com'
@@ -101,6 +100,7 @@ payload:
   - '+.shopifystatus.com'
   - '+.shopifysvc.com'
   - '+.langshop.app'
+  - '+.namokimods.com'
 #bulianglin
   - '+.bulianglin.com'
 #podcast
