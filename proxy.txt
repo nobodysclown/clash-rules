@@ -1,13 +1,12 @@
 payload:
-  - '+.v2ex.com'
-  - '+.linux.do'
-  - '+.ufc.com'
-  - '+.omnivore.app'
-  - '+.teracloud.jp'
-  - '+.nvidia.com'
+
+#paas
   - '+.render.com'
   - '+.vercel.com'
-  - '+.vecmul.com'
+  - '+.cloudflare.com'
+#bbs
+  - '+.v2ex.com'
+  - '+.linux.do'
 #pluto
   - '+.pluto.tv'
   - '+.plutotv.net'
@@ -22,10 +21,6 @@ payload:
 #ebay
   - '+.ebayimg.com'
   - '+.payoneer.com'
-#cloudflare
-  - '+.cloudflare.com'
-#perplexity
-  - '+.perplexity.ai'
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
@@ -39,8 +34,6 @@ payload:
 #cohere
   - '+.cohere.com'
   - '+.cohere.ai'
-#gemini
-  - '+.gemini.google.com'
 #huggingface
   - '+.huggingface.co'
 #claude
@@ -120,3 +113,11 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
+#ufc
+  - '+.ufc.com'
+#omnivore
+  - '+.omnivore.app'
+#nv
+  - '+.nvidia.com'
+#teracloud
+  - '+.teracloud.jp'
