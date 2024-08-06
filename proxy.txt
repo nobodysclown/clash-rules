@@ -105,10 +105,6 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
   - '+.akamai.net'
-#cod
-  - '+.prod.demonware.net'
-  - '+.activision.com'
-  - '+.actual.battle.net'
 #jav
   - '+.javdb.com'
   - '+.jdbstatic.com'
