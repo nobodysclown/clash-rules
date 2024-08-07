@@ -7,17 +7,6 @@ payload:
 #bbs
   - '+.v2ex.com'
   - '+.linux.do'
-#pluto
-  - '+.pluto.tv'
-  - '+.plutotv.net'
-  - '+.onetrust.com'
-  - '+.cbsi.com'
-  - '+.cbsivideo.com'
-  - '+.paramount.com'
-  - '+.rspcdn.net'
-  - '+.browser-intake-datadoghq.com'
-  - '+.demdex.net'
-  - '+.mtvnservices.com'
 #ebay
   - '+.ebayimg.com'
   - '+.payoneer.com'
