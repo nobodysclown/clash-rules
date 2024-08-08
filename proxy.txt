@@ -1,9 +1,10 @@
 payload:
 
-#paas
+#tools
   - '+.render.com'
   - '+.vercel.com'
   - '+.cloudflare.com'
+  - '+.metacubex.one'
 #bbs
   - '+.v2ex.com'
   - '+.linux.do'
