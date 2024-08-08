@@ -48,14 +48,6 @@ payload:
 #microsoft
   - '+.microsoftonline.com'
   - '+.msftauth.net'
-#copilot
-  - '+.copilot.microsoft.com'
-  - '+.location.microsoft.com'
-  - '+.bingviz.microsoft.net'
-  - '+.bingviz.microsoftapp.net'
-  - '+.bing.com'
-  - '+.bingapis.com'
-  - '+.api.msn.com'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
