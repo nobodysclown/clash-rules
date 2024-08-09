@@ -13,9 +13,6 @@ payload:
 #bbs
   - '+.v2ex.com'
   - '+.linux.do'
-#ebay
-  - '+.ebayimg.com'
-  - '+.payoneer.com'
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
@@ -24,8 +21,6 @@ payload:
   - '+.oaiusercontent.com'
 #groq
   - '+.groq.com'
-#coze
-  - '+.coze.com'
 #cohere
   - '+.cohere.com'
   - '+.cohere.ai'
