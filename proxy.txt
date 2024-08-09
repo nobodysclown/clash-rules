@@ -1,9 +1,15 @@
 payload:
-
-#tools
+##
+  - '+.metacubex.one'
+  - '+.bulianglin.com'
+  - '+.ufc.com'
+  - '+.omnivore.app'
+  - '+.nvidia.com'
+  - '+.teracloud.jp'
+##
+#paas
   - '+.render.com'
   - '+.vercel.com'
-  - '+.metacubex.one'
 #bbs
   - '+.v2ex.com'
   - '+.linux.do'
@@ -44,9 +50,6 @@ payload:
   - '+.ipstatp.com'
   - '+.muscdn.com'
   - '+.musical.ly'
-#microsoft
-  - '+.microsoftonline.com'
-  - '+.msftauth.net'
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
@@ -76,12 +79,8 @@ payload:
   - '+.shopifysvc.com'
   - '+.langshop.app'
   - '+.namokimods.com'
-#bulianglin
-  - '+.bulianglin.com'
 #podcast
   - '+.buzzsprout.com'
-#emby
-  - '+.imetyou.top'
 #cdn
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
@@ -90,11 +89,4 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
-#ufc
-  - '+.ufc.com'
-#omnivore
-  - '+.omnivore.app'
-#nv
-  - '+.nvidia.com'
-#teracloud
-  - '+.teracloud.jp'
+
