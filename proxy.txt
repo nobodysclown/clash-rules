@@ -74,6 +74,8 @@ payload:
   - '+.shopifysvc.com'
   - '+.langshop.app'
   - '+.namokimods.com'
+#ebay
+  - '+.ebayimg.com'
 #podcast
   - '+.buzzsprout.com'
 #cdn
