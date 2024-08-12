@@ -76,6 +76,7 @@ payload:
   - '+.namokimods.com'
 #ebay
   - '+.ebayimg.com'
+  - '+.ebaystatic.com'
 #podcast
   - '+.buzzsprout.com'
 #cdn
