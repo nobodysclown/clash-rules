@@ -6,7 +6,6 @@ payload:
   - '+.omnivore.app'
   - '+.nvidia.com'
   - '+.teracloud.jp'
-  - '+.secure.nom.za'
 ##
 #paas
   - '+.render.com'
