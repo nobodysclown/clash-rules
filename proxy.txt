@@ -6,6 +6,7 @@ payload:
   - '+.omnivore.app'
   - '+.nvidia.com'
   - '+.teracloud.jp'
+  - '+.tubi.tv'
 ##
 #paas
   - '+.render.com'
