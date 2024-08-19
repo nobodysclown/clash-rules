@@ -1,5 +1,6 @@
 payload:
 #sogou
+  - '+.sginput.qq.com'
   - '+.cloud.pinyin.sogou.com'
   - '+.ping.pinyin.sogou.com'
   - '+.info.pinyin.sogou.com'
