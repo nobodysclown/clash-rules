@@ -8,6 +8,8 @@ payload:
   - '+.teracloud.jp'
 ##
 
+#aliexpress
+  - '+.aliexpress.com'
 #tubitv
   - '+.tubi.tv'
   - '+.tubi.io'
