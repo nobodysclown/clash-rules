@@ -36,6 +36,8 @@ payload:
 #claude
   - '+.claude.ai'
   - '+.anthropic.com'
+#felo
+  - '+.felo.ai'
 #docker
   - '+.docker.com'
   - '+.docker.io'
