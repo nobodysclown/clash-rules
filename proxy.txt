@@ -7,7 +7,6 @@ payload:
   - '+.nvidia.com'
   - '+.teracloud.jp'
   - '+.suno.com'
-
 ##
 
 #game
@@ -49,6 +48,7 @@ payload:
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokw.us'
+  - '+.tiktokv.us'
   - '+.tiktokcdn.com'
   - '+.tiktokcdn-us.com'
   - '+.tiktokv.com'
