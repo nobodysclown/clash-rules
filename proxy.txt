@@ -7,9 +7,12 @@ payload:
   - '+.nvidia.com'
   - '+.teracloud.jp'
   - '+.suno.com'
-  - '+.nexusmods.com'
+
 ##
 
+#game
+  - '+.nexusmods.com'
+  - '+.wemod.com'
 #tubitv
   - '+.tubi.tv'
   - '+.tubi.io'
