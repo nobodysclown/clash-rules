@@ -7,7 +7,6 @@ payload:
   - '+.nvidia.com'
   - '+.teracloud.jp'
   - '+.suno.com'
-  - '+.drivethelife.com'
 ##
 
 #game
