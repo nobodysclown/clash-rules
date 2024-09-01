@@ -102,4 +102,5 @@ payload:
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
   - '+.stripchat.com'
+  - '+.strpst.com'
 
