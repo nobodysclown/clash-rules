@@ -101,4 +101,5 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
+  - '+.stripchat.com'
 
