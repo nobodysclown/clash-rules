@@ -12,6 +12,10 @@ payload:
 #game
   - '+.nexusmods.com'
   - '+.wemod.com'
+#cod
+  - '+.prod.demonware.net'
+  - '+.activision.com'
+  - '+.actual.battle.net'
 #tubitv
   - '+.tubi.tv'
   - '+.tubi.io'
