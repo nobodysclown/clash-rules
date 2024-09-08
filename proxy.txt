@@ -20,6 +20,7 @@ payload:
 #paas
   - '+.render.com'
   - '+.vercel.com'
+  - '+.cloudflare.com'
   - '+.imagedelivery.net'
 #bbs
   - '+.v2ex.com'
