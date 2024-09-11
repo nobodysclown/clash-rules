@@ -9,6 +9,8 @@ payload:
   - '+.suno.com'
 ##
 
+#ip
+  - '+.ip-api.com'
 #game
   - '+.nexusmods.com'
   - '+.wemod.com'
