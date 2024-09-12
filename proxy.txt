@@ -1,16 +1,4 @@
 payload:
-##
-  - '+.metacubex.one'
-  - '+.bulianglin.com'
-  - '+.ufc.com'
-  - '+.omnivore.app'
-  - '+.nvidia.com'
-  - '+.teracloud.jp'
-  - '+.suno.com'
-##
-
-#ip
-  - '+.ip-api.com'
 #game
   - '+.nexusmods.com'
   - '+.wemod.com'
@@ -90,7 +78,6 @@ payload:
   - '+.shopifystatus.com'
   - '+.shopifysvc.com'
   - '+.langshop.app'
-  - '+.namokimods.com'
 #ebay
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
