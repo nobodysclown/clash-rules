@@ -87,10 +87,4 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
   - '+.akamai.net'
-#jav
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-  - '+.fengyunjiaoyu.xyz'
-  - '+.stripchat.com'
-  - '+.strpst.com'
 
