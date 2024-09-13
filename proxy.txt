@@ -3,16 +3,6 @@ payload:
   - '+.steamstatic.com'
   - '+.nexusmods.com'
   - '+.wemod.com'
-#tubitv
-  - '+.tubi.tv'
-  - '+.tubi.io'
-  - '+.tubitv.com'
-  - '+.adrise.tv'
-#paas
-  - '+.render.com'
-  - '+.vercel.com'
-  - '+.cloudflare.com'
-  - '+.imagedelivery.net'
 #bbs
   - '+.v2ex.com'
   - '+.linux.do'
@@ -69,16 +59,6 @@ payload:
   - '+.itunes.apple.com'
   - '+.apps.apple.com'
   - '+.mzstatic.com'
-#shopify
-  - '+.shop.app'
-  - '+.shopify.com'
-  - '+.shopify.dev'
-  - '+.shopifycdn.com'
-  - '+.shopifyapps.com'
-  - '+.shopifycloud.com'
-  - '+.shopifystatus.com'
-  - '+.shopifysvc.com'
-  - '+.langshop.app'
 #ebay
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
@@ -88,4 +68,3 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
   - '+.akamai.net'
-
