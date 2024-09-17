@@ -68,5 +68,3 @@ payload:
   - '+.bootstrapcdn.com'
   - '+.jsdelivr.net'
   - '+.akamai.net'
-#emby
-  - '+.imetyou.top'
