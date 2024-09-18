@@ -64,9 +64,5 @@ payload:
   - '+.ebaystatic.com'
 #podcast
   - '+.buzzsprout.com'
-#cdn
-  - '+.bootstrapcdn.com'
-  - '+.jsdelivr.net'
-  - '+.akamai.net'
 #emby
   - '+.misakaf.org'
