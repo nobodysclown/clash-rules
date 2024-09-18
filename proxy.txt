@@ -1,11 +1,6 @@
 payload:
-#game
-  - '+.steamstatic.com'
-  - '+.nexusmods.com'
-  - '+.wemod.com'
-#bbs
-  - '+.v2ex.com'
-  - '+.linux.do'
+#emby
+  - '+.misakaf.org'
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
@@ -17,8 +12,6 @@ payload:
 #cohere
   - '+.cohere.com'
   - '+.cohere.ai'
-#huggingface
-  - '+.huggingface.co'
 #claude
   - '+.claude.ai'
   - '+.anthropic.com'
@@ -64,5 +57,6 @@ payload:
   - '+.ebaystatic.com'
 #podcast
   - '+.buzzsprout.com'
-#emby
-  - '+.misakaf.org'
+#game
+  - '+.steamstatic.com'
+  - '+.wemod.com'
