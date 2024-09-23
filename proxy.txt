@@ -60,3 +60,5 @@ payload:
 #game
   - '+.steamstatic.com'
   - '+.wemod.com'
+#serv
+  - '+.serv00.com'
