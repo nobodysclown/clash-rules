@@ -37,6 +37,8 @@ payload:
 #temu
   - '+.temu.com'
   - '+.kwcdn.com'
+#shopify
+  - '+.shopify.com'
 #openwrt
   - '+.openwrt.org'
   - '+.dl.istoreos.com'
