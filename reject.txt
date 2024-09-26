@@ -1,4 +1,6 @@
 payload:
+#adguard
+  - '+.local.adguard.org'
 #sogou
   - '+.sginput.qq.com'
   - '+.cloud.pinyin.sogou.com'
@@ -67,7 +69,7 @@ payload:
   - '+.wintricksbanner.googlepages.com'
   - '+.www-google-analytics.l.google.com'
   - '+.ad-creatives-public.commondatastorage.googleapis.com'
-#Chinese google (https://github.com/easylist/easylist/issues/15643)
+#Chinese-google (https://github.com/easylist/easylist/issues/15643)
   - '+.2mdn-cn.net'
   - '+.admob-cn.com'
   - '+.doubleclick-cn.net'
