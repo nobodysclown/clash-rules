@@ -64,3 +64,5 @@ payload:
   - '+.wemod.com'
 #serv
   - '+.serv00.com'
+#adguard
+  - '+.injections.adguard.org'
