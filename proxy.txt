@@ -67,3 +67,8 @@ payload:
   - '+.wemod.com'
 #serv
   - '+.serv00.com'
+#cloudflare
+  - '+.cloudflare.com'
+  - '+.workers.dev'
+  - '+.pages.dev'
+
