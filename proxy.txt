@@ -57,6 +57,9 @@ payload:
 #ebay
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
+#spotify
+  - '+.scdn.co'
+  - '+.spotifycdn.com'
 #podcast
   - '+.buzzsprout.com'
 #game
