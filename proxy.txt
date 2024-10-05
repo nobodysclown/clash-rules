@@ -72,4 +72,6 @@ payload:
   - '+.cloudflare.com'
   - '+.workers.dev'
   - '+.pages.dev'
+#cdn
+  - '+.bootstrapcdn.com'
 
