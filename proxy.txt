@@ -39,6 +39,7 @@ payload:
   - '+.kwcdn.com'
 #shopify
   - '+.shopify.com'
+  - '+.myshopify.com'
 #openwrt
   - '+.openwrt.org'
   - '+.dl.istoreos.com'
