@@ -1,6 +1,4 @@
 payload:
-#adguard
-  - '+.local.adguard.org'
 #sogou
   - '+.sginput.qq.com'
   - '+.cloud.pinyin.sogou.com'
