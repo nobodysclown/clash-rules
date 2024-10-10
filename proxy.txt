@@ -69,7 +69,6 @@ payload:
 #serv
   - '+.serv00.com'
 #cloudflare
-  - '+.cloudflare.com'
   - '+.workers.dev'
   - '+.pages.dev'
 #cdn
