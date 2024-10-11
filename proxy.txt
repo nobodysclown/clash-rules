@@ -15,6 +15,9 @@ payload:
 #copilot
   - '+.copilot.microsoft.com'
   - '+.graph.microsoft.com'
+  - '+.cloudapp.azure.com'
+  - '+.trafficmanager.net'
+  - '+.azurefd.net'
 #felo
   - '+.felo.ai'
 #docker
