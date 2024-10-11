@@ -12,9 +12,8 @@ payload:
 #cohere
   - '+.cohere.com'
   - '+.cohere.ai'
-#claude
-  - '+.claude.ai'
-  - '+.anthropic.com'
+#copilot
+  - '+.copilot.microsoft.com'
 #felo
   - '+.felo.ai'
 #docker
