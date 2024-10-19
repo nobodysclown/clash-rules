@@ -7,6 +7,7 @@ payload:
   - '+.auth0.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
+  - '+.auth0.openai.com.cdn.cloudflare.net'
 #groq
   - '+.groq.com'
 #cohere
