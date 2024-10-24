@@ -1,6 +1,4 @@
 payload:
-#emby
-  - '+.misakaf.org'
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
