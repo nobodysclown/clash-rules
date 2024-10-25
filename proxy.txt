@@ -76,4 +76,6 @@ payload:
   - '+.pages.dev'
 #cdn
   - '+.bootstrapcdn.com'
+#adg
+  - '+.api.adguard.org'
 
