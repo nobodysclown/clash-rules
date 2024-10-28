@@ -78,4 +78,6 @@ payload:
   - '+.bootstrapcdn.com'
 #adg
   - '+.api.adguard.org'
+#google
+  - '+.google'
 
