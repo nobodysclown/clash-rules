@@ -80,4 +80,7 @@ payload:
   - '+.api.adguard.org'
 #google
   - '+.google'
-
+#javdb
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
+  - '+.fengyunjiaoyu.xyz'
