@@ -325,6 +325,7 @@ payload:
   - '+.isub.snssdk.com.bytedns.net'
   - '+.it.snssdk.com.edgekey.net'
   - '+.iu.snssdk.com.edgekey.net'
+  - '+.is.snssdk.com.queniukw.com'
   - '+.lianmengapi.snssdk.com'
   - '+.log-hl.snssdk.com'
   - '+.log.snssdk.com'
@@ -349,6 +350,7 @@ payload:
   - '+.vcs.snssdk.com'
   - '+.verify.snssdk.com'
   - '+.xlog.snssdk.com'
+
 #zijie
   - '+.ads5-normal-hl.zijieapi.com'
   - '+.vcs.zijieapi.com'
@@ -375,4 +377,3 @@ payload:
   - '+.ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net'
   - '+.ads3-normal-lf.zijieapi.com.skyworth'
   - '+.ads5-normal-lf.zijieapi.com.skyworth'
-  - '+.is.snssdk.com.queniukw.com'
