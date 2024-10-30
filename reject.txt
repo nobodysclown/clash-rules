@@ -1,9 +1,6 @@
 payload:
 #adguard
   - '+.local.adguard.org'
-#weixin
-  - '+.wxsnsdy.wxs.qq.com'
-  - '+.wxsnsdythumb.wxs.qq.com'
 #sogou
   - '+.sginput.qq.com'
   - '+.cloud.pinyin.sogou.com'
