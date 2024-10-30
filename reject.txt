@@ -309,6 +309,7 @@ payload:
   - '+.logservice1.hicloud.com'
   - '+.metrics-dra.dt.hicloud.com'
 #douyin
+  - '+.ad.zijieapi.com'
   - '+.abtest-ch.snssdk.com'
   - '+.analytics.snssdk.com'
   - '+.bds.snssdk.com'
