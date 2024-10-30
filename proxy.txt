@@ -87,5 +87,3 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #pocket
   - '+.getpocket.com'
-#google
-  - '+.www.googleadservices.com'
