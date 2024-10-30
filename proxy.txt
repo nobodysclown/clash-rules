@@ -84,3 +84,5 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
+#pocket
+  - '+.getpocket.com'
