@@ -1,6 +1,9 @@
 payload:
 #adguard
   - '+.local.adguard.org'
+#weixin
+  - '+.wxsnsdy.wxs.qq.com'
+  - '+.wxsnsdythumb.wxs.qq.com'
 #sogou
   - '+.sginput.qq.com'
   - '+.cloud.pinyin.sogou.com'
@@ -305,3 +308,15 @@ payload:
   - '+.logservice.hicloud.com'
   - '+.logservice1.hicloud.com'
   - '+.metrics-dra.dt.hicloud.com'
+#douyin
+  - '+.analytics.snssdk.com'
+  - '+.extlog.snssdk.com'
+  - '+.gecko-hl.snssdk.com'
+  - '+.gecko-lq.snssdk.com'
+  - '+.lianmengapi.snssdk.com'
+  - '+.log-hl.snssdk.com'
+  - '+.toblog.snssdk.com'
+  - '+.ug.snssdk.com'
+  - '+.isub.snssdk.com.bytedns.net'
+  - '+.log.snssdk.com.bytedns.net'
+  - '+.open.snssdk.com.bytedns.net'
