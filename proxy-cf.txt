@@ -3,5 +3,3 @@ payload:
   - '+.misakaf.org'
 #imgur
   - '+.imgur.com'
-  - '+.imgur-categorisation.ccgateway.net'
-  - '+.imgur.ccgateway.net'
