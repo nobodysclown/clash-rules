@@ -81,9 +81,5 @@ payload:
   - '+.injections.adguard.org'
 #google
   - '+.google'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-  - '+.fengyunjiaoyu.xyz'
 #pocket
   - '+.getpocket.com'
