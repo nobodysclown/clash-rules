@@ -21,7 +21,6 @@ payload:
   - '+.azurefd.net'
   - '+.login.live.com'
   - '+.login.microsoftonline.com'
-
 #docker
   - '+.docker.com'
   - '+.docker.io'
@@ -60,6 +59,7 @@ payload:
   - '+.itunes.apple.com'
   - '+.apps.apple.com'
   - '+.mzstatic.com'
+  - '+.brew.sh'
 #ebay
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
