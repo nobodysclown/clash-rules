@@ -53,8 +53,6 @@ payload:
   - '+.gg.apple.com'
   - '+.gs.apple.com'
   - '+.mesu.apple.com'
-  - '+.updates-http.cdn-apple.com'
-  - '+.updates.cdn-apple.com'
   - '+.xp.apple.com'
   - '+.itunes.apple.com'
   - '+.apps.apple.com'
