@@ -11,12 +11,6 @@ payload:
 #cohere
   - '+.cohere.com'
   - '+.cohere.ai'
-#copilot
-  - '+.copilot.microsoft.com'
-  - '+.graph.microsoft.com'
-  - '+.cloudapp.azure.com'
-  - '+.trafficmanager.net'
-  - '+.azurefd.net'
 #felo
   - '+.felo.ai'
 #docker
