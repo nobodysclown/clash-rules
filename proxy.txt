@@ -19,6 +19,9 @@ payload:
   - '+.cloudapp.azure.com'
   - '+.trafficmanager.net'
   - '+.azurefd.net'
+  - '+.login.live.com'
+  - '+.login.microsoftonline.com'
+
 #docker
   - '+.docker.com'
   - '+.docker.io'
