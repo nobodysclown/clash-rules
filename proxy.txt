@@ -85,3 +85,6 @@ payload:
   - '+.google'
 #pocket
   - '+.getpocket.com'
+#notion
+  - '+.notion.com'
+  - '+.notion.so'
