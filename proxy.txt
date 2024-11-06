@@ -88,3 +88,4 @@ payload:
 #notion
   - '+.notion.com'
   - '+.notion.so'
+  - '+.img.notionusercontent.com'
