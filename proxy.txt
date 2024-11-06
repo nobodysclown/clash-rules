@@ -13,13 +13,14 @@ payload:
   - '+.cohere.ai'
 #felo
   - '+.felo.ai'
-#copilot
+#microsoft
   - '+.copilot.microsoft.com'
   - '+.graph.microsoft.com'
   - '+.cloudapp.azure.com'
   - '+.trafficmanager.net'
   - '+.azurefd.net'
   - '+.login.live.com'
+  - '+.account.live.com'
   - '+.login.microsoftonline.com'
 #docker
   - '+.docker.com'
