@@ -3,7 +3,3 @@ payload:
   - '+.misakaf.org'
 #imgur
   - '+.imgur.com'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-  - '+.fengyunjiaoyu.xyz'
