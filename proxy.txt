@@ -89,3 +89,7 @@ payload:
   - '+.notion.com'
   - '+.notion.so'
   - '+.img.notionusercontent.com'
+#javdb
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
+  - '+.fengyunjiaoyu.xyz'
