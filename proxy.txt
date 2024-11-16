@@ -95,4 +95,3 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #roblox
   - '+.roblox.com'
-  - '+.d2v57ias1m20gl.cloudfront.net'
