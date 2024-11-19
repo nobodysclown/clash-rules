@@ -95,5 +95,4 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #roblox
   - '+.roblox.com'
-#follow
-  - '+.follow.is'
+
