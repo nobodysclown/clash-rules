@@ -80,7 +80,6 @@ payload:
   - '+.bootstrapcdn.com'
 #adg
   - '+.api.adguard.org'
-  - '+.injections.adguard.org'
 #google
   - '+.google'
 #pocket
