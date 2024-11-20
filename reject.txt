@@ -1,6 +1,4 @@
 payload:
-#adguard
-  - '+.local.adguard.org'
 #weixin
   - '+.wxsnsdy.wxs.qq.com'
   - '+.wxsnsdythumb.wxs.qq.com'
