@@ -47,7 +47,7 @@ payload:
   - '+.myshopify.com'
 #openwrt
   - '+.openwrt.org'
-  - '+.dl.istoreos.com'
+  - '+.kyarucloud.moe'
 #apple
   - '+.appldnld.apple.com'
   - '+.gdmf.apple.com'
