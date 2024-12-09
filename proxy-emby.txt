@@ -1,3 +1,0 @@
-payload:
-#emby
-  - '+.misakaf.org'
