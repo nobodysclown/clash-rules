@@ -64,8 +64,6 @@ payload:
 #game
   - '+.steamstatic.com'
   - '+.wemod.com'
-#serv
-  - '+.serv00.com'
 #cloudflare
   - '+.workers.dev'
   - '+.pages.dev'
@@ -75,8 +73,6 @@ payload:
   - '+.api.adguard.org'
 #google
   - '+.google'
-#pocket
-  - '+.getpocket.com'
 #notion
   - '+.notion.com'
   - '+.notion.so'
