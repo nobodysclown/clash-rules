@@ -83,4 +83,6 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #roblox
   - '+.roblox.com'
+#emby
+  - '+.misakaf.org'
 
