@@ -1,4 +1,8 @@
 payload:
+#adg
+  - '+.api.adguard.org'
+  - '+.injections.adguard.org'
+  - '+.adtidy.org'
 #openai
   - '+.openai.com'
   - '+.chatgpt.com'
@@ -69,10 +73,6 @@ payload:
   - '+.pages.dev'
 #cdn
   - '+.bootstrapcdn.com'
-#adg
-  - '+.api.adguard.org'
-  - '+.injections.adguard.org'
-  - '+.adtidy.org'
 #google
   - '+.google'
 #notion
