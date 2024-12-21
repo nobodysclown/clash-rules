@@ -71,6 +71,8 @@ payload:
   - '+.bootstrapcdn.com'
 #adg
   - '+.api.adguard.org'
+  - '+.injections.adguard.org'
+  - '+.adtidy.org'
 #google
   - '+.google'
 #notion
