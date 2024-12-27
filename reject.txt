@@ -4,6 +4,7 @@ payload:
 #weixin
   - '+.wxsnsdy.wxs.qq.com'
   - '+.wxsnsdythumb.wxs.qq.com'
+  - '+.beacon.qq.com'
 #sogou
   - '+.sginput.qq.com'
   - '+.cloud.pinyin.sogou.com'
