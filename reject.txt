@@ -5,6 +5,7 @@ payload:
   - '+.wxsnsdy.wxs.qq.com'
   - '+.wxsnsdythumb.wxs.qq.com'
   - '+.beacon.qq.com'
+  - '+.beacon.cdn.qq.com'
 #sogou
   - '+.sginput.qq.com'
   - '+.cloud.pinyin.sogou.com'
