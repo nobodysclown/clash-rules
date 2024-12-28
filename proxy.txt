@@ -55,7 +55,10 @@ payload:
   - '+.itunes.apple.com'
   - '+.apps.apple.com'
   - '+.mzstatic.com'
+#brew
   - '+.brew.sh'
+#sublime
+  - '+.packagecontrol.io'
 #ebay
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
