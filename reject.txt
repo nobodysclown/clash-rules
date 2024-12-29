@@ -1,4 +1,6 @@
 payload:
+#immersivetranslate
+  - '+.analytics.immersivetranslate.com'
 #adg
   - '+.local.adguard.org'
 #weixin
