@@ -1,6 +1,4 @@
 payload:
-#dianxiaomi
-  - '+.wxalbum-10001658.image.myqcloud.com'
 #adg
   - '+.local.adguard.org'
 #weixin
