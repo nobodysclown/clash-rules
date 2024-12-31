@@ -1,5 +1,7 @@
 payload:
 #openai
+  - '+.openai.com'
+  - '+.chatgpt.com'
   - '+.auth0.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
