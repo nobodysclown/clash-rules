@@ -45,16 +45,6 @@ payload:
 #openwrt
   - '+.openwrt.org'
   - '+.kyarucloud.moe'
-#apple
-  - '+.appldnld.apple.com'
-  - '+.gdmf.apple.com'
-  - '+.gg.apple.com'
-  - '+.gs.apple.com'
-  - '+.mesu.apple.com'
-  - '+.xp.apple.com'
-  - '+.itunes.apple.com'
-  - '+.apps.apple.com'
-  - '+.mzstatic.com'
 #brew
   - '+.brew.sh'
 #sublime
@@ -86,8 +76,6 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
-#roblox
-  - '+.roblox.com'
 #emby
   - '+.misakaf.org'
 
