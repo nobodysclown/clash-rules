@@ -1,22 +1,9 @@
 payload:
-#adg
-  - '+.api.adguard.org'
-  - '+.injections.adguard.org'
-  - '+.adtidy.org'
 #openai
-  - '+.openai.com'
-  - '+.chatgpt.com'
   - '+.auth0.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.auth0.openai.com.cdn.cloudflare.net'
-#groq
-  - '+.groq.com'
-#cohere
-  - '+.cohere.com'
-  - '+.cohere.ai'
-#felo
-  - '+.felo.ai'
 #microsoft
   - '+.copilot.microsoft.com'
 #docker
