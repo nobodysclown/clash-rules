@@ -1,6 +1,4 @@
 payload:
-#enpass
-  - '+.cgn.enpass.io'
 #weixin
   - '+.wxsnsdy.wxs.qq.com'
   - '+.wxsnsdythumb.wxs.qq.com'
