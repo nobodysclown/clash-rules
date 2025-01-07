@@ -1,4 +1,6 @@
 payload:
+#apple
+  - '+.podcasts.apple.com'
 #openai
   - '+.auth0.com'
   - '+.oaistatic.com'
