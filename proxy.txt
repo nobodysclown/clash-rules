@@ -67,4 +67,7 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #emby
   - '+.emby.misakaf.org'
+#df
+  - '+.download.dgameglobal.com'
+  - '+.intlgame.com'
 
