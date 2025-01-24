@@ -65,6 +65,6 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
-#emby
-  - '+.emby.misakaf.org'
+#x
+  - '+.cms-twdigitalassets.com'
 
