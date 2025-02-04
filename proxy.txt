@@ -55,6 +55,7 @@ payload:
   - '+.pages.dev'
 #cdn
   - '+.bootstrapcdn.com'
+  - '+.typekit.net'
 #google
   - '+.google'
 #notion
