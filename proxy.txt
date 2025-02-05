@@ -58,7 +58,6 @@ payload:
   - '+.typekit.net'
 #google
   - '+.google'
-  - '+.gstatic.com'
 #notion
   - '+.notion.com'
   - '+.notion.so'
