@@ -8,6 +8,8 @@ payload:
   - '+.auth0.openai.com.cdn.cloudflare.net'
 #microsoft
   - '+.copilot.microsoft.com'
+#felo
+  - '+.felo.ai'
 #docker
   - '+.docker.com'
   - '+.docker.io'
