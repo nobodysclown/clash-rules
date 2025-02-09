@@ -70,4 +70,6 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #x
   - '+.cms-twdigitalassets.com'
+#emby
+  - '+.tmdb.org'
 
