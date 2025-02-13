@@ -3,7 +3,7 @@ payload:
   - '+.anticheatexpert.com'
   - '+.api.epicgames.dev'
   - '+.dgameglobal.com'
-  - '+.sg.jupiterlauncher.com'
+  - '+.jupiterlauncher.com'
 #apple
   - '+.podcasts.apple.com'
 #openai
