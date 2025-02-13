@@ -1,9 +1,4 @@
 payload:
-#df
-  - '+.anticheatexpert.com'
-  - '+.api.epicgames.dev'
-  - '+.dgameglobal.com'
-  - '+.jupiterlauncher.com'
 #apple
   - '+.podcasts.apple.com'
 #openai
