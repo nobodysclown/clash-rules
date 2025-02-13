@@ -72,6 +72,7 @@ payload:
   - '+.wintricksbanner.googlepages.com'
   - '+.www-google-analytics.l.google.com'
   - '+.ad-creatives-public.commondatastorage.googleapis.com'
+  - '+.doubleclick.net'
 #Chinese-google-ad (https://github.com/easylist/easylist/issues/15643)
   - '+.2mdn-cn.net'
   - '+.admob-cn.com'
