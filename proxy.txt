@@ -5,7 +5,7 @@ payload:
   - '+.auth0.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
-  - '+.auth0.openai.com.cdn.cloudflare.net'
+  - '+.openai.com.cdn.cloudflare.net'
 #microsoft
   - '+.copilot.microsoft.com'
 #felo
