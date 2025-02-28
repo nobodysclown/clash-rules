@@ -1,6 +1,10 @@
 payload:
 #apple
   - '+.podcasts.apple.com'
+#x
+  - '+.x.ai'
+  - '+.grok.com'
+  - '+.cms-twdigitalassets.com'
 #openai
   - '+.auth0.com'
   - '+.oaistatic.com'
@@ -68,6 +72,5 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
-#x
-  - '+.cms-twdigitalassets.com'
+
 
