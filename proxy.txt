@@ -12,7 +12,7 @@ payload:
   - '+.openai.com.cdn.cloudflare.net'
 #microsoft
   - '+.copilot.microsoft.com'
-#felo
+#felof
   - '+.felo.ai'
 #docker
   - '+.docker.com'
@@ -64,7 +64,6 @@ payload:
   - '+.typekit.net'
 #google
   - '+.google'
-  - '+.googleapis.com'
 #notion
   - '+.notion.com'
   - '+.notion.so'
