@@ -5,6 +5,7 @@ payload:
    - '+.pgdt.ugdtimg.com'
    - '+.pgdt.gtimg.cn'
    - '+.pglstatp-toutiao.com'
+   - '+.mobads-pre-config.cdn.bcebos.com'
  #360
    - '+.dev.360.cn'
    - '+.gamebox.360.cn'
