@@ -1,4 +1,9 @@
 payload:
+#联盟
+  - '+.adukwai.com'
+  - '+.e.kuaishou.cn'
+  - '+.pgdt.ugdtimg.com'
+  - '+.pgdt.gtimg.cn'
 #360
   - '+.dev.360.cn'
   - '+.gamebox.360.cn'
