@@ -20,7 +20,7 @@ payload:
   - '+.p.s.360.cn'
   - '+.union.360.cn'
   - '+.sd.360.cn'
-  - '+.weather.360.cn'
+  - '+.hao.360.cn'
   - '+.tf.360.cn'
   - '+.u.360.cn'
   - '+.look.360.cn'
