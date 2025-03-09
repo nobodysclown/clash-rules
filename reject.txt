@@ -1,5 +1,6 @@
 payload:
 #联盟
+   - '+.e.qq.com'
    - '+.adukwai.com'
    - '+.e.kuaishou.cn'
    - '+.pgdt.ugdtimg.com'
