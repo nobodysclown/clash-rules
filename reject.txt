@@ -1,5 +1,6 @@
 payload:
 #联盟
+   - '+.volces.com'
    - '+.e.qq.com'
    - '+.adukwai.com'
    - '+.e.kuaishou.cn'
