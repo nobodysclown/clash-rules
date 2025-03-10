@@ -1,4 +1,6 @@
 payload:
+  - '+.analysis-acc-ssl.xunlei.com'
+  - '+.api-shoulei-ssl.xunlei.com'
 #lianmeng
   - '+.e.qq.com'
   - '+.adukwai.com'
