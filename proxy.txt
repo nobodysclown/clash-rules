@@ -12,6 +12,7 @@ payload:
   - '+.openai.com.cdn.cloudflare.net'
 #microsoft
   - '+.copilot.microsoft.com'
+  - '+.graph.microsoft.com'
   - '+.self.events.data.microsoft.com'
 #felo
   - '+.felo.ai'
