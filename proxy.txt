@@ -14,6 +14,7 @@ payload:
   - '+.copilot.microsoft.com'
   - '+.graph.microsoft.com'
   - '+.self.events.data.microsoft.com'
+  - '+.my.microsoftpersonalcontent.com'
 #felo
   - '+.felo.ai'
 #docker
