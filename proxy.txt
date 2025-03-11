@@ -3,7 +3,6 @@ payload:
   - '+.podcasts.apple.com'
 #x
   - '+.x.ai'
-  - '+.grok.com'
   - '+.cms-twdigitalassets.com'
 #openai
   - '+.auth0.com'
@@ -11,15 +10,11 @@ payload:
   - '+.oaiusercontent.com'
   - '+.openai.com.cdn.cloudflare.net'
 #microsoft
-  - '+.copilot.microsoft.com'
   - '+.graph.microsoft.com'
   - '+.self.events.data.microsoft.com'
   - '+.my.microsoftpersonalcontent.com'
 #felo
   - '+.felo.ai'
-#docker
-  - '+.docker.com'
-  - '+.docker.io'
 #tiktok
   - '+.tiktok.com'
   - '+.tiktokw.us'
@@ -54,26 +49,14 @@ payload:
 #spotify
   - '+.scdn.co'
   - '+.spotifycdn.com'
-#podcast
-  - '+.buzzsprout.com'
 #game
-  - '+.steamstatic.com'
   - '+.wemod.com'
 #cloudflare
-  - '+.workers.dev'
   - '+.pages.dev'
-#cdn
-  - '+.bootstrapcdn.com'
-  - '+.typekit.net'
-#google
-  - '+.google'
 #notion
   - '+.notion.com'
   - '+.notion.so'
   - '+.img.notionusercontent.com'
 #javdb
-  - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
-
-
