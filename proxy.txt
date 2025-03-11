@@ -13,6 +13,7 @@ payload:
   - '+.graph.microsoft.com'
   - '+.self.events.data.microsoft.com'
   - '+.my.microsoftpersonalcontent.com'
+  - '+.api.cognitive.microsofttranslator.com'
 #felo
   - '+.felo.ai'
 #tiktok
