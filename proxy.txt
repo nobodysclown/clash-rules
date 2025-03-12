@@ -10,10 +10,6 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com.cdn.cloudflare.net'
-#microsoft
-  - '+.graph.microsoft.com'
-  - '+.self.events.data.microsoft.com'
-  - '+.my.microsoftpersonalcontent.com'
 #felo
   - '+.felo.ai'
 #tiktok
