@@ -6,6 +6,7 @@ payload:
   - '+.cms-twdigitalassets.com'
 #openai
   - '+.auth0.com'
+  - '+.openai.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com.cdn.cloudflare.net'
