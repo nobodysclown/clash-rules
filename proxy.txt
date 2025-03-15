@@ -1,4 +1,6 @@
 payload:
+#google
+  - '+.google'
 #apple
   - '+.podcasts.apple.com'
 #x
