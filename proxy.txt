@@ -35,6 +35,8 @@ payload:
 #shopify
   - '+.shopify.com'
   - '+.myshopify.com'
+#ebay
+  - '+.ebayimg.com'
 #openwrt
   - '+.openwrt.org'
   - '+.kyarucloud.moe'
