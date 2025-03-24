@@ -51,8 +51,6 @@ payload:
 #spotify
   - '+.scdn.co'
   - '+.spotifycdn.com'
-#game
-  - '+.wemod.com'
 #cloudflare
   - '+.pages.dev'
 #notion
