@@ -3,6 +3,8 @@ payload:
   - '+.google'
 #apple
   - '+.podcasts.apple.com'
+#docker
+  - '+.docker.io'
 #x
   - '+.x.ai'
   - '+.cms-twdigitalassets.com'
