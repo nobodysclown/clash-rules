@@ -1,6 +1,8 @@
 payload:
 #google
   - '+.google'
+  - '+.googlesyndication.com'
+  - '+.doubleclick.net'
 #apple
   - '+.podcasts.apple.com'
 #docker
