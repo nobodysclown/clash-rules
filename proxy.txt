@@ -62,3 +62,6 @@ payload:
 #javdb
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
+#hcaptcha
+  - '+.hcaptcha.com'
+
