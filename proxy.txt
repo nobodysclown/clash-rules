@@ -64,4 +64,5 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #hcaptcha
   - '+.hcaptcha.com'
-
+#game
+  - '+.supercell.com'
