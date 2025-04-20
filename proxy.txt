@@ -36,6 +36,7 @@ payload:
   - '+.kwcdn.com'
 #stripe
   - '+.stripe.com'
+  - '+.stripecdn.com'
 #shopify
   - '+.shopify.com'
   - '+.myshopify.com'
