@@ -8,7 +8,6 @@ payload:
   - '+.pgdt.ugdtimg.com'
   - '+.mobads-pre-config.cdn.bcebos.com'
   - '+.sigmob.com'
-  - '+.gtm-main.biubiu001.com'
 #tencent
   - '+.ad.qun.qq.com'
   - '+.adping.qq.com'
