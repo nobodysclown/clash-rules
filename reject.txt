@@ -9,7 +9,6 @@ payload:
   - '+.mobads-pre-config.cdn.bcebos.com'
   - '+.sigmob.com'
   - '+.gtm-main.biubiu001.com'
-  - '+.gtm-dog.biubiu001.com'
 #tencent
   - '+.ad.qun.qq.com'
   - '+.adping.qq.com'
