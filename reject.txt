@@ -345,7 +345,6 @@ payload:
    - '+.is.snssdk.com.queniukw.com'
    - '+.lianmengapi.snssdk.com'
    - '+.log-hl.snssdk.com'
-   - '+.log.snssdk.com'
    - '+.log.snssdk.com.bytedns.net'
    - '+.mercury-sdk.snssdk.com'
    - '+.mon.snssdk.com'
