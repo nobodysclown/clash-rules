@@ -3,6 +3,7 @@ payload:
   - '+.google'
 #apple
   - '+.podcasts.apple.com'
+  - '+.hls-svod.itunes.apple.com'
 #docker
   - '+.docker.io'
 #x
