@@ -67,7 +67,6 @@ payload:
 #ebay
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
-  - '+.payoneer.com'
 #spotify
   - '+.scdn.co'
   - '+.spotifycdn.com'
