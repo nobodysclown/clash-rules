@@ -1,4 +1,2 @@
 payload:
-#emby
-  - '+.xmsl.org'
-  - '+.emby.moe'
+
