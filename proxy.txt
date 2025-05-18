@@ -85,4 +85,9 @@ payload:
   - '+.hcaptcha.com'
 #game
   - '+.supercell.com'
-
+#emby
+  - '+.xmsl.org'
+  - '+.emby.moe'
+  - '+.xxlb.net'
+  - '+.niceduck.lol'
+  - '+.loseremby.org'
