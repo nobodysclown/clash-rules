@@ -1,8 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,xmsl.org
-  - DOMAIN-SUFFIX,emby.moe
-  - DOMAIN-SUFFIX,xxlb.net
-  - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,loseremby.org
   - IP-CIDR,154.12.52.149/25
   - IP-CIDR,146.235.227.133/25
