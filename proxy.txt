@@ -85,6 +85,8 @@ payload:
   - '+.hcaptcha.com'
 #game
   - '+.supercell.com'
+#folo
+  - '+.follow.is'
 #emby
   - '+.xmsl.org'
   - '+.emby.moe'
