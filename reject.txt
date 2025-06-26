@@ -339,7 +339,6 @@ payload:
    - '+.ib.snssdk.com'
    - '+.ib.snssdk.com.edgekey.net'
    - '+.ic.snssdk.com'
-   - '+.is.snssdk.com'
    - '+.isub.snssdk.com'
    - '+.isub.snssdk.com.bytedns.net'
    - '+.it.snssdk.com.edgekey.net'
