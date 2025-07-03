@@ -87,10 +87,13 @@ payload:
   - '+.supercell.com'
 #folo
   - '+.follow.is'
-#emby
+#1111
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
   - '+.niceduck.lol'
+#imdb
+  - '+.imdb.com'
   - '+.tmdb.org'
   - '+.themoviedb.org'
+  - '+.media-imdb.com'
