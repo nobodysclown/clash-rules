@@ -57,7 +57,10 @@ payload:
   - '+.myshopify.com'
 #ebay
   - '+.ebayimg.com'
+  - '+.ebaystatic.com'
   - '+.ebaydesc.com'
+#payoneer
+  - '+.payoneer.com'
 #openwrt
   - '+.openwrt.org'
   - '+.kyarucloud.moe'
@@ -65,11 +68,6 @@ payload:
   - '+.brew.sh'
 #sublime
   - '+.packagecontrol.io'
-#ebay
-  - '+.ebayimg.com'
-  - '+.ebaystatic.com'
-#payoneer
-  - '+.payoneer.com'
 #spotify
   - '+.scdn.co'
   - '+.spotifycdn.com'
