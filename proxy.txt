@@ -73,8 +73,11 @@ payload:
   - '+.spotifycdn.com'
 #cloudflare
   - '+.pages.dev'
+  - '+.cloudflare.net'
   - '+.imagedelivery.net'
   - '+.static.cloudflareinsights.com'
+#cdn
+  - '+.fastly.net'
 #notion
   - '+.notion.com'
   - '+.notion.so'
