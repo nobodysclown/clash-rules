@@ -162,6 +162,7 @@ payload:
   - '+.video-stats.video.google.com'
   - '+.wintricksbanner.googlepages.com'
   - '+.doubleclick.net'
+  - '+.app-analytics-services.com'
 #Chinese-google-ad
   - '+.2mdn-cn.net'
   - '+.admob-cn.com'
