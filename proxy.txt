@@ -78,6 +78,7 @@ payload:
   - '+.static.cloudflareinsights.com'
 #cdn
   - '+.fastly.net'
+  - '+.cloudfront.net'
 #notion
   - '+.notion.com'
   - '+.notion.so'
