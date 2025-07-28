@@ -15,6 +15,9 @@ payload:
   - '+.click.googleanalytics.com'
   - '+.google-analytics.com'
   - '+.ssl.google-analytics.com'
+#Sentry
+  - '+.browser.sentry-cdn.com'
+  - '+.app.getsentry.com'
 #tencent
   - '+.ad.qun.qq.com'
   - '+.adping.qq.com'
