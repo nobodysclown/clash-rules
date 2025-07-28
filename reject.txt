@@ -10,6 +10,11 @@ payload:
   - '+.pgdt.ugdtimg.com'
   - '+.mobads-pre-config.cdn.bcebos.com'
   - '+.sigmob.com'
+#Analytics
+  - '+.analytics.google.com'
+  - '+.click.googleanalytics.com'
+  - '+.google-analytics.com'
+  - '+.ssl.google-analytics.com'
 #tencent
   - '+.ad.qun.qq.com'
   - '+.adping.qq.com'
@@ -162,6 +167,15 @@ payload:
   - '+.video-stats.video.google.com'
   - '+.wintricksbanner.googlepages.com'
   - '+.doubleclick.net'
+  - '+.pagead2.googlesyndication.com'
+  - '+.pagead2.googleadservices.com'
+  - '+.afs.googlesyndication.com'
+#Doubleclick
+  - '+.stats.g.doubleclick.net'
+  - '+.ad.doubleclick.net'
+  - '+.static.doubleclick.net'
+  - '+.m.doubleclick.net'
+  - '+.mediavisor.doubleclick.net'
 #Chinese-google-ad
   - '+.2mdn-cn.net'
   - '+.admob-cn.com'
@@ -392,3 +406,35 @@ payload:
   - '+.ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net'
   - '+.ads3-normal-lf.zijieapi.com.skyworth'
   - '+.ads5-normal-lf.zijieapi.com.skyworth'
+#tiktok
+  - '+.ads-api.tiktok.com'
+  - '+.analytics.tiktok.com'
+  - '+.ads-sg.tiktok.com'
+  - '+.analytics-sg.tiktok.com'
+  - '+.business-api.tiktok.com'
+  - '+.ads.tiktok.com'
+  - '+.log.byteoversea.com'
+#twitter
+  - '+.static.ads-twitter.com'
+  - '+.ads-api.twitter.com'
+#huawei
+  - '+.metrics.data.hicloud.com'
+  - '+.metrics2.data.hicloud.com'
+  - '+.grs.hicloud.com'
+  - '+.logservice.hicloud.com'
+  - '+.logservice1.hicloud.com'
+  - '+.logbak.hicloud.com'
+#samsung
+  - '+.samsungads.com'
+  - '+.smetrics.samsung.com'
+  - '+.nmetrics.samsung.com'
+  - '+.samsung-com.112.2o7.net'
+  - '+.analytics-api.samsunghealthcn.com'
+#xiaomi
+  - '+.api.ad.xiaomi.com'
+  - '+.data.mistat.xiaomi.com'
+  - '+.data.mistat.india.xiaomi.com'
+  - '+.data.mistat.rus.xiaomi.com'
+  - '+.sdkconfig.ad.xiaomi.com'
+  - '+.sdkconfig.ad.intl.xiaomi.com'
+  - '+.tracking.rus.miui.com'
