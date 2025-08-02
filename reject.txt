@@ -10,6 +10,7 @@ payload:
   - '+.pgdt.ugdtimg.com'
   - '+.mobads-pre-config.cdn.bcebos.com'
   - '+.sigmob.com'
+  - '+.api.qttunion.com'
 #Analytics
   - '+.analytics.google.com'
   - '+.click.googleanalytics.com'
