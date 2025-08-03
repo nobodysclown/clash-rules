@@ -61,6 +61,7 @@ payload:
   - '+.ebaydesc.com'
 #payoneer
   - '+.payoneer.com'
+  - '+.payoneer-api.arkoselabs.com'
 #openwrt
   - '+.openwrt.org'
   - '+.kyarucloud.moe'
