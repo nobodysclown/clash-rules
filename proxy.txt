@@ -71,6 +71,7 @@ payload:
   - '+.spotifycdn.com'
 #cloudflare
   - '+.pages.dev'
+  - '+.cloudflare.com'
   - '+.cloudflare.net'
   - '+.imagedelivery.net'
   - '+.static.cloudflareinsights.com'
