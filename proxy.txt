@@ -92,11 +92,12 @@ payload:
   - '+.steamstatic.com'
 #folo
   - '+.follow.is'
-#1111
+#emby
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
   - '+.niceduck.lol'
+  - '+.opensubtitles.com'
 #imdb
   - '+.imdb.com'
   - '+.tmdb.org'
