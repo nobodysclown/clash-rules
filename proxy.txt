@@ -90,6 +90,7 @@ payload:
 #game
   - '+.supercell.com'
   - '+.steamstatic.com'
+  - '+.steamserver.net'
 #folo
   - '+.follow.is'
 #emby
