@@ -44,6 +44,7 @@ payload:
   - '+.tiktokv.com'
   - '+.ttwebview.com'
   - '+.ttwstatic.com'
+  - '+.ttcdn-us.com'
   - '+.musical.ly'
   - '+.muscdn.com'
 #temu
