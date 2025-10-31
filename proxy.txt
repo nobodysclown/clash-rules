@@ -48,7 +48,10 @@ payload:
   - '+.musical.ly'
   - '+.muscdn.com'
 #temu
-  - '+.temu.com'
+  - '+.www.temu.com'
+  - '+.thtka-us.temu.com'
+  - '+.pftka-us.temu.com'
+  - '+.pftk.temu.com'
   - '+.kwcdn.com'
 #stripe
   - '+.stripe.com'
