@@ -96,7 +96,7 @@ payload:
   - '+.steamstatic.com'
   - '+.steamserver.net'
 #folo
-  - '+.follow.is'
+  - '+.folo.is'
 #emby
   - '+.xmsl.org'
   - '+.emby.moe'
