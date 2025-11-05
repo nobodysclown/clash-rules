@@ -1,6 +1,7 @@
 payload:
 #google
   - '+.google'
+  - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
 #apple
   - '+.podcasts.apple.com'
 #docker
