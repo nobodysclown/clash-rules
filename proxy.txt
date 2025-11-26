@@ -93,13 +93,14 @@ payload:
   - '+.steamserver.net'
 #folo
   - '+.folo.is'
+#subtitles
+  - '+.opensubtitles.com'
+#tmdb
+  - '+.tmdb.org'
+  - '+.themoviedb.org'
+#imdb
+  - '+.imdb.com'
+  - '+.media-imdb.com'
 #xmsl.org
   - '+.emby.moe'
   - '+.xxlb.net'
-#subtitles
-  - '+.opensubtitles.com'
-#imdb
-  - '+.imdb.com'
-  - '+.tmdb.org'
-  - '+.themoviedb.org'
-  - '+.media-imdb.com'
