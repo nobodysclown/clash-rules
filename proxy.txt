@@ -6,14 +6,8 @@ payload:
   - '+.podcasts.apple.com'
 #com.apple.MobileGestalt.plist
   - '+.routinehub.co'
-#docker
-  - '+.docker.io'
-#x
-  - '+.x.ai'
-  - '+.cms-twdigitalassets.com'
 #openai
   - '+.auth0.com'
-  - '+.openai.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com.cdn.cloudflare.net'
@@ -81,7 +75,6 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.net'
   - '+.imagedelivery.net'
-  - '+.static.cloudflareinsights.com'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
