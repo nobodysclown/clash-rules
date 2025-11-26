@@ -4,8 +4,6 @@ payload:
   - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
 #apple
   - '+.podcasts.apple.com'
-#com.apple.MobileGestalt.plist
-  - '+.routinehub.co'
 #openai
   - '+.auth0.com'
   - '+.oaistatic.com'
