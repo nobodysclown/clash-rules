@@ -2,6 +2,8 @@ payload:
 #google
   - '+.google'
   - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
+#edge
+  - '+.microsofttranslator.com'
 #apple
   - '+.podcasts.apple.com'
 #openai
