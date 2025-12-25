@@ -100,3 +100,5 @@ payload:
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
+#huangyu
+  - '+.typingmind.com'
