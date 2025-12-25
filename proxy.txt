@@ -97,5 +97,6 @@ payload:
   - '+.imdb.com'
   - '+.media-imdb.com'
 #xmsl.org
+  - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
