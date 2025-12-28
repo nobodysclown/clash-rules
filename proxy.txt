@@ -104,3 +104,4 @@ payload:
   - '+.xxlb.net'
 #huangyu
   - '+.typingmind.com'
+  - '+.pinterest.com'
