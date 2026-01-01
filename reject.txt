@@ -146,6 +146,7 @@ payload:
   - '+.vinci.ie.sogou.com'
   - '+.config.push.sogou.com'
 #google
+  - '+.ogads-pa.clients6.google.com'
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
   - '+.adservice.google.com'
