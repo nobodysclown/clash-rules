@@ -1,5 +1,6 @@
 payload:
 #google
+  - '+.gstatic.com'
   - '+.google'
   - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
 #edge
