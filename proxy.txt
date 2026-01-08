@@ -107,3 +107,4 @@ payload:
 #huangyu
   - '+.typingmind.com'
   - '+.pinterest.com'
+  - '+.anythingllm.com'
