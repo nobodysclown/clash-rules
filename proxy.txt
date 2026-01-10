@@ -104,6 +104,8 @@ payload:
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
+#crypto
+  - '+.launchdarkly.com'
 #huangyu
   - '+.typingmind.com'
   - '+.pinterest.com'
