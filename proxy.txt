@@ -84,8 +84,9 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
-#hcaptcha
+#api
   - '+.hcaptcha.com'
+  - '+.segment.com'
 #game
   - '+.supercell.com'
   - '+.steamstatic.com'
