@@ -108,6 +108,9 @@ payload:
 #crypto
   - '+.launchdarkly.com'
   - '+.safepal.com'
+  - '+.fiat24.com'
+  - '+.walletconnect.org'
+
 #huangyu
   - '+.typingmind.com'
   - '+.pinterest.com'
