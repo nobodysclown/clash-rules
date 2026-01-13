@@ -110,8 +110,10 @@ payload:
   - '+.safepal.com'
   - '+.fiat24.com'
   - '+.walletconnect.org'
+  - '+.asterdex.com'
 
 #huangyu
   - '+.typingmind.com'
   - '+.pinterest.com'
   - '+.anythingllm.com'
+  - '+.youmind.com'
