@@ -11,6 +11,7 @@ payload:
   - '+.walletconnect.org'
   - '+.asterdex.com'
   - '+.arbiscan.io'
+  - '+.rootdata.com'
 #zendesk
   - '+.zendesk.com'
 #apple
