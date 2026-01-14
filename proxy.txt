@@ -10,6 +10,7 @@ payload:
   - '+.fiat24.com'
   - '+.walletconnect.org'
   - '+.asterdex.com'
+  - '+.arbiscan.io'
 #zendesk
   - '+.zendesk.com'
 #apple
