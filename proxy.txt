@@ -19,6 +19,7 @@ payload:
   - '+.isafepal.com'
   - '+.mexc.com'
   - '+.apollox.finance'
+  - '+.hyperliquid.xyz'
 #zendesk
   - '+.zendesk.com'
 #apple
