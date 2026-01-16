@@ -16,6 +16,7 @@ payload:
   - '+.backpack.exchange'
   - '+.binancezh.info'
   - '+.binance.vision'
+  - '+.isafepal.com'
 #zendesk
   - '+.zendesk.com'
 #apple
