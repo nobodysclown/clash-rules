@@ -17,6 +17,8 @@ payload:
   - '+.binancezh.info'
   - '+.binance.vision'
   - '+.isafepal.com'
+  - '+.mexc.com'
+  - '+.apollox.finance'
 #zendesk
   - '+.zendesk.com'
 #apple
