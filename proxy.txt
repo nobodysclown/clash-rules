@@ -13,6 +13,7 @@ payload:
   - '+.arbiscan.io'
   - '+.rootdata.com'
   - '+.backpack.exchange'
+  - '+.binancezh.info'
 #zendesk
   - '+.zendesk.com'
 #apple
