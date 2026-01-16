@@ -12,6 +12,7 @@ payload:
   - '+.asterdex.com'
   - '+.arbiscan.io'
   - '+.rootdata.com'
+  - '+.backpack.exchange'
 #zendesk
   - '+.zendesk.com'
 #apple
