@@ -20,6 +20,7 @@ payload:
   - '+.mexc.com'
   - '+.apollox.finance'
   - '+.hyperliquid.xyz'
+  - '+.coinlist.co'
 #zendesk
   - '+.zendesk.com'
 #apple
