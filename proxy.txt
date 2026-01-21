@@ -65,6 +65,13 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.net'
   - '+.imagedelivery.net'
+#api
+  - '+.hcaptcha.com'
+  - '+.segment.com'
+  - '+.magic.link'
+  - '+.intercom.com'
+  - '+.intercomcdn.com'
+  - '+.fun.xyz'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
@@ -77,12 +84,6 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
-#api
-  - '+.hcaptcha.com'
-  - '+.segment.com'
-  - '+.magic.link'
-  - '+.intercom.com'
-  - '+.fun.xyz'
 #game
   - '+.supercell.com'
   - '+.steamstatic.com'
