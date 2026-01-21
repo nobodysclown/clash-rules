@@ -51,6 +51,8 @@ payload:
 #openwrt
   - '+.openwrt.org'
   - '+.kyarucloud.moe'
+#grok
+  - '+.grokipedia.com'
 #brew
   - '+.brew.sh'
 #sublime
