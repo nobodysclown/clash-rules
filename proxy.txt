@@ -80,6 +80,9 @@ payload:
 #api
   - '+.hcaptcha.com'
   - '+.segment.com'
+  - '+.magic.link'
+  - '+.intercom.com'
+  - '+.fun.xyz'
 #game
   - '+.supercell.com'
   - '+.steamstatic.com'
