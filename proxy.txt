@@ -21,6 +21,7 @@ payload:
   - '+.apollox.finance'
   - '+.hyperliquid.xyz'
   - '+.coinlist.co'
+  - '+.privy.io'
 #zendesk
   - '+.zendesk.com'
 #apple
