@@ -74,6 +74,7 @@ payload:
   - '+.intercomcdn.com'
   - '+.fun.xyz'
   - '+.vercel.live'
+  - '+.immersivetranslate.com'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
