@@ -22,8 +22,6 @@ payload:
   - '+.asterdex.com'
   - '+.asterbroker.com'
   - '+.apollox.finance'
-#zama
-  - '+.zama.org'
 #zendesk
   - '+.zendesk.com'
 #apple
