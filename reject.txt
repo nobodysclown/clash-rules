@@ -11,6 +11,7 @@ payload:
   - '+.mobads-pre-config.cdn.bcebos.com'
   - '+.sigmob.com'
   - '+.api.qttunion.com'
+  - '+.tronads.io'
 #Analytics
   - '+.analytics.google.com'
   - '+.click.googleanalytics.com'
