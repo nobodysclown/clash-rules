@@ -32,8 +32,6 @@ payload:
   - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
 #edge
   - '+.microsofttranslator.com'
-#felo
-  - '+.felo.ai'
 #openai
   - '+.auth0.com'
   - '+.oaistatic.com'
