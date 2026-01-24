@@ -73,7 +73,8 @@ payload:
   - '+.fun.xyz'
   - '+.vercel.live'
   - '+.immersivetranslate.com'
-  - '+.gist.github.com'
+#github
+  - '+.github.com'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
