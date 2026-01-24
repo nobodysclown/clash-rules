@@ -4,24 +4,26 @@ payload:
   - '+.pinterest.com'
   - '+.anythingllm.com'
   - '+.youmind.com'
-#crypto
+#exchange
+  - '+.binancezh.info'
+  - '+.binance.vision'
+  - '+.backpack.exchange'
+  - '+.hyperliquid.xyz'
+  - '+.coinlist.co'
+#safepal
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
+#wallet
+  - '+.privy.io'
   - '+.walletconnect.org'
   - '+.walletconnect.com'
+#aster
   - '+.asterdex.com'
   - '+.asterbroker.com'
-  - '+.arbiscan.io'
-  - '+.rootdata.com'
-  - '+.backpack.exchange'
-  - '+.binancezh.info'
-  - '+.binance.vision'
   - '+.apollox.finance'
-  - '+.hyperliquid.xyz'
-  - '+.coinlist.co'
+#zama
   - '+.zama.org'
-  - '+.privy.io'
 #zendesk
   - '+.zendesk.com'
 #apple
