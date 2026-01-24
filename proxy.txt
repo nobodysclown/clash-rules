@@ -9,6 +9,7 @@ payload:
   - '+.safepal.com'
   - '+.fiat24.com'
   - '+.walletconnect.org'
+  - '+.walletconnect.com'
   - '+.asterdex.com'
   - '+.asterbroker.com'
   - '+.arbiscan.io'
@@ -21,6 +22,7 @@ payload:
   - '+.apollox.finance'
   - '+.hyperliquid.xyz'
   - '+.coinlist.co'
+  - '+.zama.org'
   - '+.privy.io'
 #zendesk
   - '+.zendesk.com'
