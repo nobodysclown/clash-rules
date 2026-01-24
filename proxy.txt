@@ -17,7 +17,6 @@ payload:
   - '+.backpack.exchange'
   - '+.binancezh.info'
   - '+.binance.vision'
-  - '+.mexc.com'
   - '+.apollox.finance'
   - '+.hyperliquid.xyz'
   - '+.coinlist.co'
