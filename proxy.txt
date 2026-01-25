@@ -66,10 +66,7 @@ payload:
   - '+.imagedelivery.net'
 #api
   - '+.hcaptcha.com'
-  - '+.segment.com'
   - '+.magic.link'
-  - '+.intercom.com'
-  - '+.intercomcdn.com'
   - '+.launchdarkly.com'
   - '+.fun.xyz'
   - '+.vercel.live'
