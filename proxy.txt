@@ -14,9 +14,11 @@ payload:
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
-#wallet
+#n26
   - '+.n26.com'
   - '+.tech26.de'
+  - '+.number26.de'
+#wallet
   - '+.privy.io'
   - '+.walletconnect.org'
   - '+.walletconnect.com'
