@@ -16,6 +16,7 @@ payload:
   - '+.fiat24.com'
 #wallet
   - '+.n26.com'
+  - '+.tech26.de'
   - '+.privy.io'
   - '+.walletconnect.org'
   - '+.walletconnect.com'
