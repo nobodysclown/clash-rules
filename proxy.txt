@@ -67,6 +67,7 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.net'
   - '+.imagedelivery.net'
+  - '+.cloudflarestorage.com'
 #api
   - '+.hcaptcha.com'
   - '+.magic.link'
