@@ -1,5 +1,5 @@
 payload:
-#huangyu
+#huang
   - '+.typingmind.com'
   - '+.pinterest.com'
   - '+.anythingllm.com'
@@ -10,6 +10,8 @@ payload:
   - '+.backpack.exchange'
   - '+.hyperliquid.xyz'
   - '+.coinlist.co'
+  - '+.gate.com'
+  - '+.gateimage.com'
 #wallet
   - '+.safepal.com'
   - '+.isafepal.com'
