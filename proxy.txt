@@ -1,5 +1,5 @@
 payload:
-#huang
+#other
   - '+.typingmind.com'
   - '+.pinterest.com'
   - '+.anythingllm.com'
@@ -46,6 +46,7 @@ payload:
   - '+.stripe.com'
   - '+.stripecdn.com'
 #shopify
+  - '+.shop.app'
   - '+.shopify.com'
   - '+.myshopify.com'
 #ebay
