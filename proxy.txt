@@ -35,6 +35,7 @@ payload:
   - '+.gstatic.com'
   - '+.google'
   - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
+  - '+.xn--ngstr-lra8j.com'
 #edge
   - '+.microsofttranslator.com'
 #openai
