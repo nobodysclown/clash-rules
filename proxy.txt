@@ -32,10 +32,8 @@ payload:
 #apple
   - '+.podcasts.apple.com'
 #google
-  - '+.gstatic.com'
   - '+.google'
   - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
-  - '+.xn--ngstr-lra8j.com'
 #edge
   - '+.edge.microsoft.com'
   - '+.microsofttranslator.com'
