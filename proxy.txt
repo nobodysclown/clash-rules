@@ -44,6 +44,7 @@ payload:
   - '+.openai.com.cdn.cloudflare.net'
 #stripe
   - '+.stripe.com'
+  - '+.stripe.network'
   - '+.stripecdn.com'
 #shopify
   - '+.shop.app'
