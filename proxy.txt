@@ -12,9 +12,10 @@ payload:
   - '+.coinlist.co'
   - '+.gate.com'
   - '+.gateimage.com'
-  - '+.apollox.finance'
   - '+.asterdex.com'
+  - '+.asterdexfx.com'
   - '+.asterbroker.com'
+  - '+.apollox.finance'
   - '+.xstocks.fi'
 #wallet
   - '+.safepal.com'
