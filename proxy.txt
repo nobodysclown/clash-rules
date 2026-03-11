@@ -79,6 +79,8 @@ payload:
   - '+.launchdarkly.com'
   - '+.fun.xyz'
   - '+.vercel.live'
+  - '+.immersivetranslate.cn'
+  - '+.immersivetranslate.com'
 #github
   - '+.github.com'
 #cdn
