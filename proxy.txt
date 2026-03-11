@@ -12,6 +12,10 @@ payload:
   - '+.coinlist.co'
   - '+.gate.com'
   - '+.gateimage.com'
+  - '+.apollox.finance'
+  - '+.asterdex.com'
+  - '+.asterbroker.com'
+  - '+.xstocks.fi'
 #wallet
   - '+.safepal.com'
   - '+.isafepal.com'
@@ -23,10 +27,6 @@ payload:
   - '+.n26.com'
   - '+.tech26.de'
   - '+.number26.de'
-#aster
-  - '+.asterdex.com'
-  - '+.asterbroker.com'
-  - '+.apollox.finance'
 #zendesk
   - '+.zendesk.com'
 #apple
@@ -78,7 +78,6 @@ payload:
   - '+.launchdarkly.com'
   - '+.fun.xyz'
   - '+.vercel.live'
-  - '+.immersivetranslate.com'
 #github
   - '+.github.com'
 #cdn
