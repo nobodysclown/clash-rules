@@ -82,8 +82,9 @@ payload:
   - '+.vercel.live'
   - '+.immersivetranslate.cn'
   - '+.immersivetranslate.com'
-#github
+#dev
   - '+.github.com'
+  - '+.python.org'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
