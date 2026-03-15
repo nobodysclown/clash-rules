@@ -80,6 +80,8 @@ payload:
   - '+.vercel.live'
   - '+.immersivetranslate.cn'
   - '+.immersivetranslate.com'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
 #dev
   - '+.brew.sh'
   - '+.github.com'
