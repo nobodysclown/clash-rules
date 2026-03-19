@@ -101,8 +101,6 @@ payload:
   - '+.fengyunjiaoyu.xyz'
 #game
   - '+.supercell.com'
-  - '+.steamstatic.com'
-  - '+.steamserver.net'
 #folo
   - '+.folo.is'
 #subtitles
