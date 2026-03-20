@@ -8,3 +8,6 @@ payload:
   - '+.update.googleapis.com'
   - '+.translate.googleapis.com'
   - '+.fonts.googleapis.com'
+#steam
+  - '+.cm.steampowered.com'
+  - '+.steamserver.net'
