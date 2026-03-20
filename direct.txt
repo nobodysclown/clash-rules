@@ -16,3 +16,4 @@ payload:
   - '+.test.steampowered.com'
   - '+.st.dl.eccdnx.com'
   - '+.steamcommunity-a.akamaihd.net'
+  - '+.steamcdn-a.akamaihd.net'
