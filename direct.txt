@@ -9,5 +9,10 @@ payload:
   - '+.translate.googleapis.com'
   - '+.fonts.googleapis.com'
 #steam
+  - '+.api.steampowered.com'
   - '+.cm.steampowered.com'
   - '+.steamserver.net'
+  - '+.cloudflare.steamstatic.com'
+  - '+.test.steampowered.com'
+  - '+.st.dl.eccdnx.com'
+  - '+.steamcommunity-a.akamaihd.net'
