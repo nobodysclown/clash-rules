@@ -89,6 +89,7 @@ payload:
   - '+.pythonhosted.org'
   - '+.pypi.org'
   - '+.nodejs.org'
+  - '+.npmjs.org'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
