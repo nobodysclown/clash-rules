@@ -16,7 +16,6 @@ payload:
   - '+.asterdexfx.com'
   - '+.asterbroker.com'
   - '+.apollox.finance'
-  - '+.backed.fi'
   - '+.xstocks.fi'
 #wallet
   - '+.safepal.com'
