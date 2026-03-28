@@ -91,6 +91,8 @@ payload:
   - '+.pypi.org'
   - '+.nodejs.org'
   - '+.npmjs.org'
+  - '+.koyeb.com'
+  - '+.supabase.com'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
