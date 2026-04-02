@@ -39,6 +39,7 @@ payload:
   - '+.edge.microsoft.com'
   - '+.microsofttranslator.com'
 #openai
+  - '+.chatgpt.com'
   - '+.auth0.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
