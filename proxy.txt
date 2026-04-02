@@ -72,6 +72,7 @@ payload:
   - '+.pages.dev'
   - '+.cloudflare.com'
   - '+.cloudflare.net'
+  - '+.cloudflare.dev'
   - '+.imagedelivery.net'
   - '+.cloudflarestorage.com'
 #api
