@@ -1,6 +1,8 @@
 payload:
 #adguard
   - '+.local.adguard.org'
+#ping00
+  - '+.ping0.cc'
 #lianmeng
   - '+.e.qq.com'
   - '+.adukwai.com'
