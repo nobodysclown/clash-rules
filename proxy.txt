@@ -54,6 +54,7 @@ payload:
   - '+.shop.app'
   - '+.shopify.com'
   - '+.myshopify.com'
+  - '+.shopifycdn.com'
 #ebay
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
