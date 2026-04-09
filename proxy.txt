@@ -86,6 +86,7 @@ payload:
   - '+.immersivetranslate.com'
   - '+.intercom.io'
   - '+.intercomcdn.com'
+  - '+.typeform.com'
 #dev
   - '+.brew.sh'
   - '+.github.com'
