@@ -97,6 +97,7 @@ payload:
   - '+.npmjs.org'
   - '+.koyeb.com'
   - '+.supabase.com'
+  - '+.supabase.co'
 #cdn
   - '+.fastly.net'
   - '+.cloudfront.net'
