@@ -34,7 +34,7 @@ payload:
   - '+.podcasts.apple.com'
 #google
   - '+.google'
-  - '+.google-ohttp-relay-safebrowsing.fastly-edge.com'
+  - '+.cloudproxy.app'
 #edge
   - '+.edge.microsoft.com'
   - '+.microsofttranslator.com'
