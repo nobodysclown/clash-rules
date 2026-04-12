@@ -46,6 +46,7 @@ payload:
   - '+.openai.com.cdn.cloudflare.net'
 #ai
   - '+.openrouter.ai'
+  - '+.meta.ai'
 #stripe
   - '+.stripe.com'
   - '+.stripe.network'
