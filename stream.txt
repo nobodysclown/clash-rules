@@ -10,3 +10,4 @@ payload:
   - '+.linear.tv.apple.com'
   - '+.cma2.itunes.apple.com'
   - '+.fpinit.itunes.apple.com'
+  - '+.uts-api-cdn.itunes-apple.com.akadns.net'
