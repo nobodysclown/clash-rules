@@ -8,3 +8,5 @@ payload:
   - '+.known-issues.apple.com'
   - '+.hls-amt.itunes.apple.com'
   - '+.linear.tv.apple.com'
+  - '+.cma2.itunes.apple.com'
+  - '+.fpinit.itunes.apple.com'
