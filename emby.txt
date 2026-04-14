@@ -1,4 +1,0 @@
-payload:
-  - '+.xmsl.org'
-  - '+.emby.moe'
-  - '+.xxlb.net'
