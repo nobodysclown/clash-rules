@@ -5,6 +5,7 @@ payload:
   - '+.anythingllm.com'
   - '+.youmind.com'
 #exchange
+  - '+.sardine.ai'
   - '+.binancezh.info'
   - '+.binance.vision'
   - '+.backpack.exchange'
