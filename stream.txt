@@ -3,3 +3,4 @@ payload:
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
+  - '+.formula1.com'
