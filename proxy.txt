@@ -22,7 +22,6 @@ payload:
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
-  - '+.privy.io'
   - '+.walletconnect.org'
   - '+.walletconnect.com'
 #n26
@@ -82,6 +81,8 @@ payload:
 #api
   - '+.hcaptcha.com'
   - '+.magic.link'
+  - '+.magiclabs.com'
+  - '+.privy.io'
   - '+.launchdarkly.com'
   - '+.fun.xyz'
   - '+.vercel.live'
@@ -125,10 +126,6 @@ payload:
 #imdb
   - '+.imdb.com'
   - '+.media-imdb.com'
-#xmsl.org
-  - '+.xmsl.org'
-  - '+.emby.moe'
-  - '+.xxlb.net'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
