@@ -21,6 +21,7 @@ payload:
 #wallet
   - '+.safepal.com'
   - '+.isafepal.com'
+  - '+.safehw.com'
   - '+.fiat24.com'
   - '+.walletconnect.org'
   - '+.walletconnect.com'
