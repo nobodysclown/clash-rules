@@ -91,6 +91,7 @@ payload:
   - '+.intercom.io'
   - '+.intercomcdn.com'
   - '+.typeform.com'
+  - '+.browser-intake-datadoghq.com'
 #dev
   - '+.brew.sh'
   - '+.github.com'
@@ -157,3 +158,6 @@ payload:
   - '+.ttcdn-us.com'
   - '+.musical.ly'
   - '+.muscdn.com'
+#snapchat
+  - '+.snapchat.com'
+  - '+.sc-static.net'
