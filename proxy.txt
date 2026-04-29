@@ -1,9 +1,7 @@
 payload:
-
 #ai
   - '+.meta.ai'
   - '+.openrouter.ai'
-  - '+.grokipedia.com'
 #api
   - '+.hcaptcha.com'
   - '+.magic.link'
@@ -17,6 +15,8 @@ payload:
   - '+.walletconnect.org'
   - '+.walletconnect.com'
   - '+.zendesk.com'
+  - '+.intercom.io'
+  - '+.intercomcdn.com'
 #dev
   - '+.brew.sh'
   - '+.github.com'
@@ -35,7 +35,7 @@ payload:
   - '+.fastly.net'
   - '+.cloudfront.net'
   - '+.winudf.com'
-#crypto exchange
+#crypto
   - '+.sardine.ai'
   - '+.binancezh.info'
   - '+.binance.vision'
@@ -57,6 +57,12 @@ payload:
   - '+.n26.com'
   - '+.tech26.de'
   - '+.number26.de'
+#kalshi
+  - '+.kalshi.com'
+  - '+.kalshi.co'
+  - '+.sardine.ai'
+  - '+.plaid.com'
+  - '+.aeropay.com'
 #apple
   - '+.podcasts.apple.com'
 #google
