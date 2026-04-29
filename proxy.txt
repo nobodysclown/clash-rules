@@ -1,10 +1,41 @@
 payload:
-#other
-  - '+.typingmind.com'
-  - '+.pinterest.com'
-  - '+.anythingllm.com'
-  - '+.youmind.com'
-#exchange
+
+#ai
+  - '+.meta.ai'
+  - '+.openrouter.ai'
+  - '+.grokipedia.com'
+#api
+  - '+.hcaptcha.com'
+  - '+.magic.link'
+  - '+.magiclabs.com'
+  - '+.privy.io'
+  - '+.fun.xyz'
+  - '+.vercel.live'
+  - '+.immersivetranslate.cn'
+  - '+.immersivetranslate.com'
+  - '+.typeform.com'
+  - '+.walletconnect.org'
+  - '+.walletconnect.com'
+  - '+.zendesk.com'
+#dev
+  - '+.brew.sh'
+  - '+.github.com'
+  - '+.python.org'
+  - '+.pythonhosted.org'
+  - '+.pypi.org'
+  - '+.nodejs.org'
+  - '+.npmjs.org'
+  - '+.koyeb.com'
+  - '+.supabase.com'
+  - '+.supabase.co'
+  - '+.openwrt.org'
+  - '+.kyarucloud.moe'
+  - '+.packagecontrol.io'
+#cdn
+  - '+.fastly.net'
+  - '+.cloudfront.net'
+  - '+.winudf.com'
+#crypto exchange
   - '+.sardine.ai'
   - '+.binancezh.info'
   - '+.binance.vision'
@@ -18,18 +49,14 @@ payload:
   - '+.asterbroker.com'
   - '+.apollox.finance'
   - '+.xstocks.fi'
-#wallet
+#safepal
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
-  - '+.walletconnect.org'
-  - '+.walletconnect.com'
 #n26
   - '+.n26.com'
   - '+.tech26.de'
   - '+.number26.de'
-#zendesk
-  - '+.zendesk.com'
 #apple
   - '+.podcasts.apple.com'
 #google
@@ -44,9 +71,6 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com.cdn.cloudflare.net'
-#ai
-  - '+.openrouter.ai'
-  - '+.meta.ai'
 #stripe
   - '+.stripe.com'
   - '+.stripe.network'
@@ -60,13 +84,6 @@ payload:
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
   - '+.ebaydesc.com'
-#openwrt
-  - '+.openwrt.org'
-  - '+.kyarucloud.moe'
-#grok
-  - '+.grokipedia.com'
-#sublime
-  - '+.packagecontrol.io'
 #spotify
   - '+.scdn.co'
   - '+.spotifycdn.com'
@@ -78,31 +95,6 @@ payload:
   - '+.imagedelivery.net'
   - '+.cloudflarestorage.com'
   - '+.cloudflareaccess.com'
-#api
-  - '+.hcaptcha.com'
-  - '+.magic.link'
-  - '+.magiclabs.com'
-  - '+.privy.io'
-  - '+.fun.xyz'
-  - '+.vercel.live'
-  - '+.immersivetranslate.cn'
-  - '+.immersivetranslate.com'
-  - '+.typeform.com'
-#dev
-  - '+.brew.sh'
-  - '+.github.com'
-  - '+.python.org'
-  - '+.pythonhosted.org'
-  - '+.pypi.org'
-  - '+.nodejs.org'
-  - '+.npmjs.org'
-  - '+.koyeb.com'
-  - '+.supabase.com'
-  - '+.supabase.co'
-#cdn
-  - '+.fastly.net'
-  - '+.cloudfront.net'
-  - '+.winudf.com'
 #notion
   - '+.notion.com'
   - '+.notion.so'
@@ -123,6 +115,9 @@ payload:
 #imdb
   - '+.imdb.com'
   - '+.media-imdb.com'
+#snapchat
+  - '+.snapchat.com'
+  - '+.sc-static.net'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
@@ -154,6 +149,3 @@ payload:
   - '+.ttcdn-us.com'
   - '+.musical.ly'
   - '+.muscdn.com'
-#snapchat
-  - '+.snapchat.com'
-  - '+.sc-static.net'
