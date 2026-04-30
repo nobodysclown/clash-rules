@@ -1,8 +1,8 @@
 payload:
-#temu
-  - '+.agentseller.temu.com'
 #google cn
   - '+.googleapis.cn'
   - '+.clientservices.googleapis.com'
   - '+.update.googleapis.com'
   - '+.fonts.googleapis.com'
+#temu
+  - '+.agentseller.temu.com'
