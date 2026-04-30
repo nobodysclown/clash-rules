@@ -1,10 +1,8 @@
 payload:
 #temu
   - '+.agentseller.temu.com'
-#google play
-  - '+.xn--ngstr-lra8j.com'
+#google cn
   - '+.googleapis.cn'
   - '+.clientservices.googleapis.com'
   - '+.update.googleapis.com'
-  - '+.translate.googleapis.com'
   - '+.fonts.googleapis.com'
