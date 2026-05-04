@@ -4,5 +4,7 @@ payload:
   - '+.clientservices.googleapis.com'
   - '+.update.googleapis.com'
   - '+.fonts.googleapis.com'
+#google play
+  - '+.xn--ngstr-lra8j.com'
 #temu
   - '+.agentseller.temu.com'
