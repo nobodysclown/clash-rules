@@ -68,6 +68,9 @@ payload:
 #google
   - '+.google'
   - '+.cloudproxy.app'
+#google play
+  - '+.services.googleapis.cn'
+  - '+.xn--ngstr-lra8j.com'
 #edge
   - '+.edge.microsoft.com'
   - '+.microsofttranslator.com'
