@@ -57,12 +57,6 @@ payload:
   - '+.n26.com'
   - '+.tech26.de'
   - '+.number26.de'
-#kalshi
-  - '+.kalshi.com'
-  - '+.kalshi.co'
-  - '+.sardine.ai'
-  - '+.plaid.com'
-  - '+.aeropay.com'
 #apple
   - '+.podcasts.apple.com'
 #google
@@ -93,9 +87,6 @@ payload:
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
   - '+.ebaydesc.com'
-#spotify
-  - '+.scdn.co'
-  - '+.spotifycdn.com'
 #cloudflare
   - '+.pages.dev'
   - '+.cloudflare.com'
