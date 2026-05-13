@@ -60,6 +60,7 @@ payload:
 #apple
   - '+.podcasts.apple.com'
 #google
+  - '+.c.gle'
   - '+.google'
   - '+.cloudproxy.app'
 #google play
