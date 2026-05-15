@@ -99,15 +99,9 @@ payload:
 #notion
   - '+.notion.com'
   - '+.notion.so'
-  - '+.img.notionusercontent.com'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-  - '+.fengyunjiaoyu.xyz'
+  - '+.notionusercontent.com'
 #game
   - '+.supercell.com'
-#folo
-  - '+.folo.is'
 #v2ex
   - '+.v2ex.com'
   - '+.ldstatic.com'
@@ -122,6 +116,10 @@ payload:
 #snapchat
   - '+.snapchat.com'
   - '+.sc-static.net'
+#javdb
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
+  - '+.fengyunjiaoyu.xyz'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
