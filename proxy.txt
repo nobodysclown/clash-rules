@@ -108,6 +108,9 @@ payload:
   - '+.supercell.com'
 #folo
   - '+.folo.is'
+#v2ex
+  - '+.v2ex.com'
+  - '+.ldstatic.com'
 #subtitles
   - '+.opensubtitles.com'
 #tmdb
