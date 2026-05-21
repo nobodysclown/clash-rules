@@ -120,6 +120,10 @@ payload:
   - '+.javdb.com'
   - '+.jdbstatic.com'
   - '+.fengyunjiaoyu.xyz'
+#xmsl
+  - '+.xmsl.org'
+  - '+.emby.moe'
+  - '+.xxlb.net'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
