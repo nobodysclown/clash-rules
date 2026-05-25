@@ -49,10 +49,11 @@ payload:
   - '+.asterbroker.com'
   - '+.apollox.finance'
   - '+.xstocks.fi'
-#safepal
+#wallte
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
+  - '+.infini.money'
 #n26
   - '+.n26.com'
   - '+.tech26.de'
