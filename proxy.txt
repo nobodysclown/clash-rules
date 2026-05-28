@@ -58,6 +58,8 @@ payload:
   - '+.n26.com'
   - '+.tech26.de'
   - '+.number26.de'
+#neverless
+  - '+.neverless.com'
 #apple
   - '+.podcasts.apple.com'
 #google
