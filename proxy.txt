@@ -40,7 +40,6 @@ payload:
   - '+.binancezh.info'
   - '+.binance.vision'
   - '+.backpack.exchange'
-  - '+.hyperliquid.xyz'
   - '+.coinlist.co'
   - '+.gate.com'
   - '+.gateimage.com'
@@ -49,7 +48,6 @@ payload:
   - '+.asterbroker.com'
   - '+.apollox.finance'
   - '+.xstocks.fi'
-  - '+.trade.xyz'
 #wallte
   - '+.safepal.com'
   - '+.isafepal.com'
