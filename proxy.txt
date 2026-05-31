@@ -76,6 +76,8 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com.cdn.cloudflare.net'
+#kreo
+  - '+.kreo.app'
 #stripe
   - '+.stripe.com'
   - '+.stripe.network'
