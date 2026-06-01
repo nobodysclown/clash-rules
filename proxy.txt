@@ -48,6 +48,8 @@ payload:
   - '+.asterbroker.com'
   - '+.apollox.finance'
   - '+.xstocks.fi'
+  - '+.hyperliquid.xyz'
+  - '+.kreo.app'
 #wallte
   - '+.safepal.com'
   - '+.isafepal.com'
@@ -76,8 +78,6 @@ payload:
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
   - '+.openai.com.cdn.cloudflare.net'
-#kreo
-  - '+.kreo.app'
 #stripe
   - '+.stripe.com'
   - '+.stripe.network'
