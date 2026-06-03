@@ -61,6 +61,8 @@ payload:
 #edge
   - '+.edge.microsoft.com'
   - '+.microsofttranslator.com'
+#onedrive
+  - '+.sharepoint.com'
 #openai
   - '+.chatgpt.com'
   - '+.auth0.com'
