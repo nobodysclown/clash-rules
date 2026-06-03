@@ -62,6 +62,7 @@ payload:
   - '+.edge.microsoft.com'
   - '+.microsofttranslator.com'
 #onedrive
+  - '+.svc.ms'
   - '+.sharepoint.com'
 #openai
   - '+.chatgpt.com'
