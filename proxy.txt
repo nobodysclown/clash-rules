@@ -43,10 +43,6 @@ payload:
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
-#n26
-  - '+.n26.com'
-  - '+.tech26.de'
-  - '+.number26.de'
 #neverless
   - '+.neverless.com'
 #apple
