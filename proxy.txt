@@ -1,6 +1,7 @@
 payload:
 #ai
   - '+.meta.ai'
+  - '+.poke.com'
   - '+.openrouter.ai'
 #api
   - '+.hcaptcha.com'
