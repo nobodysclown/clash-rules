@@ -39,6 +39,7 @@ payload:
   - '+.asterbroker.com'
   - '+.apollox.finance'
   - '+.xstocks.fi'
+  - '+.trade.xyz'
   - '+.hyperliquid.xyz'
 #wallte
   - '+.safepal.com'
