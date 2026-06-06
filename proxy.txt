@@ -45,8 +45,6 @@ payload:
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
-#neverless
-  - '+.neverless.com'
 #apple
   - '+.podcasts.apple.com'
 #google
