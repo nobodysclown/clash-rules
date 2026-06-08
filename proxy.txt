@@ -4,12 +4,11 @@ payload:
   - '+.poke.com'
   - '+.openrouter.ai'
 #api
-  - '+.hcaptcha.com'
+  - '+.auth0.com'
   - '+.privy.io'
-  - '+.fun.xyz'
+  - '+.hcaptcha.com'
   - '+.immersivetranslate.cn'
   - '+.immersivetranslate.com'
-  - '+.typeform.com'
 #dev
   - '+.brew.sh'
   - '+.python.org'
@@ -34,7 +33,7 @@ payload:
   - '+.xstocks.fi'
   - '+.trade.xyz'
   - '+.hyperliquid.xyz'
-#wallte
+#safepal
   - '+.safepal.com'
   - '+.isafepal.com'
   - '+.fiat24.com'
