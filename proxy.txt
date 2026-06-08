@@ -107,10 +107,6 @@ payload:
 #snapchat
   - '+.snapchat.com'
   - '+.sc-static.net'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-  - '+.fengyunjiaoyu.xyz'
 #xmsl
   - '+.xmsl.org'
   - '+.emby.moe'
