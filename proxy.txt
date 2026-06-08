@@ -10,11 +10,8 @@ payload:
   - '+.immersivetranslate.cn'
   - '+.immersivetranslate.com'
   - '+.typeform.com'
-  - '+.walletconnect.org'
-  - '+.walletconnect.com'
 #dev
   - '+.brew.sh'
-  - '+.github.com'
   - '+.python.org'
   - '+.pythonhosted.org'
   - '+.pypi.org'
@@ -25,10 +22,6 @@ payload:
   - '+.supabase.co'
   - '+.openwrt.org'
   - '+.packagecontrol.io'
-#cdn
-  - '+.fastly.net'
-  - '+.cloudfront.net'
-  - '+.winudf.com'
 #crypto
   - '+.backpack.exchange'
   - '+.coinlist.co'
@@ -62,14 +55,7 @@ payload:
   - '+.sharepoint.com'
 #openai
   - '+.chatgpt.com'
-  - '+.auth0.com'
   - '+.oaistatic.com'
-  - '+.oaiusercontent.com'
-  - '+.openai.com.cdn.cloudflare.net'
-#stripe
-  - '+.stripe.com'
-  - '+.stripe.network'
-  - '+.stripecdn.com'
 #shopify
   - '+.shop.app'
   - '+.shopify.com'
