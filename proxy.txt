@@ -93,6 +93,8 @@ payload:
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
+#fubo
+  - '+.fubo.tv'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
