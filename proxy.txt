@@ -78,8 +78,6 @@ payload:
   - '+.notion.com'
   - '+.notion.so'
   - '+.notionusercontent.com'
-#game
-  - '+.supercell.com'
 #subtitles
   - '+.opensubtitles.com'
 #tmdb
