@@ -64,6 +64,8 @@ payload:
   - '+.ebayimg.com'
   - '+.ebaystatic.com'
   - '+.ebaydesc.com'
+#stripe
+  - '+.stripe.com'
 #cloudflare
   - '+.pages.dev'
   - '+.cloudflare.com'
@@ -78,9 +80,6 @@ payload:
   - '+.notionusercontent.com'
 #game
   - '+.supercell.com'
-#v2ex
-  - '+.v2ex.com'
-  - '+.ldstatic.com'
 #subtitles
   - '+.opensubtitles.com'
 #tmdb
