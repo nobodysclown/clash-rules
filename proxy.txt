@@ -17,6 +17,7 @@ payload:
   - '+.nodejs.org'
   - '+.npmjs.org'
   - '+.koyeb.com'
+  - '+.vercel.com'
   - '+.supabase.com'
   - '+.supabase.co'
   - '+.openwrt.org'
