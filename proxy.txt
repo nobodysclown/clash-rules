@@ -73,6 +73,7 @@ payload:
   - '+.cloudflare.com'
   - '+.cloudflare.net'
   - '+.cloudflare.dev'
+  - '+.cloudflare-gateway.com'
   - '+.imagedelivery.net'
   - '+.cloudflarestorage.com'
   - '+.cloudflareaccess.com'
