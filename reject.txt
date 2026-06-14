@@ -1,4 +1,6 @@
 payload:
+#Encrypted ClientHello
+  - '+.cloudflare-ech.com'
 #adguard
   - '+.local.adguard.org'
 #lianmeng
@@ -419,9 +421,6 @@ payload:
   - '+.business-api.tiktok.com'
   - '+.ads.tiktok.com'
   - '+.log.byteoversea.com'
-#twitter
-  - '+.static.ads-twitter.com'
-  - '+.ads-api.twitter.com'
 #huawei
   - '+.metrics.data.hicloud.com'
   - '+.metrics2.data.hicloud.com'
