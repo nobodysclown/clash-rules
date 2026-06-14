@@ -67,6 +67,7 @@ payload:
   - '+.ebaydesc.com'
 #stripe
   - '+.stripe.com'
+  - '+.stripecdn.com'
 #cloudflare
   - '+.pages.dev'
   - '+.cloudflare.com'
