@@ -1,6 +1,4 @@
 payload:
-#Encrypted ClientHello
-  - '+.cloudflare-ech.com'
 #adguard
   - '+.local.adguard.org'
 #lianmeng
