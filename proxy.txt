@@ -1,4 +1,7 @@
 payload:
+#website
+  - '+.linux.do'
+  - '+.javdb.com'
 #ai
   - '+.meta.ai'
   - '+.poke.com'
