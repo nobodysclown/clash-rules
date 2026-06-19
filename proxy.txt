@@ -1,11 +1,11 @@
 payload:
-#website
   - '+.linux.do'
-  - '+.javdb.com'
 #ai
   - '+.meta.ai'
   - '+.poke.com'
   - '+.openrouter.ai'
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
 #api
   - '+.auth0.com'
   - '+.privy.io'
@@ -57,9 +57,6 @@ payload:
 #onedrive
   - '+.svc.ms'
   - '+.sharepoint.com'
-#openai
-  - '+.chatgpt.com'
-  - '+.oaistatic.com'
 #shopify
   - '+.shop.app'
   - '+.shopify.com'
@@ -100,6 +97,9 @@ payload:
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
+javdb
+  - '+.javdb.com'
+  - '+.jdbstatic.com'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
