@@ -55,6 +55,7 @@ payload:
   - '+.pagead2.googlesyndication.com'
   - '+.pagead2.googleadservices.com'
   - '+.afs.googlesyndication.com'
+  - '+.fundingchoicesmessages.google.com'
 #Doubleclick
   - '+.stats.g.doubleclick.net'
   - '+.ad.doubleclick.net'
