@@ -55,14 +55,12 @@ payload:
   - '+.pagead2.googlesyndication.com'
   - '+.pagead2.googleadservices.com'
   - '+.afs.googlesyndication.com'
-  - '+.fundingchoicesmessages.google.com'
 #Doubleclick
   - '+.stats.g.doubleclick.net'
   - '+.ad.doubleclick.net'
   - '+.static.doubleclick.net'
   - '+.m.doubleclick.net'
   - '+.mediavisor.doubleclick.net'
-  - '+.adtrafficquality.google'
 #Chinese-google-ad
   - '+.2mdn-cn.net'
   - '+.admob-cn.com'
