@@ -62,6 +62,7 @@ payload:
   - '+.static.doubleclick.net'
   - '+.m.doubleclick.net'
   - '+.mediavisor.doubleclick.net'
+  - '+.adtrafficquality.google'
 #Chinese-google-ad
   - '+.2mdn-cn.net'
   - '+.admob-cn.com'
