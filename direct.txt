@@ -1,3 +1,4 @@
 payload:
 #temu
   - '+.agentseller.temu.com'
+  - '+.bitget.com'
