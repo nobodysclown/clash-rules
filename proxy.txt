@@ -6,6 +6,7 @@ payload:
   - '+.openrouter.ai'
   - '+.chatgpt.com'
   - '+.oaistatic.com'
+  - '+.merge.dev'
 #api
   - '+.auth0.com'
   - '+.privy.io'
