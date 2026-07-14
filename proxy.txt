@@ -9,6 +9,7 @@ payload:
   - '+.oaistatic.com'
   - '+.merge.dev'
   - '+.cerebras.ai'
+  - '+.arcee.ai'
 #api
   - '+.auth0.com'
   - '+.privy.io'
