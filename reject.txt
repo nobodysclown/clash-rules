@@ -2,7 +2,6 @@ payload:
 #adguard
   - '+.local.adguard.org'
 #Analytics
-  - '+.analytics.google.com'
   - '+.click.googleanalytics.com'
   - '+.google-analytics.com'
   - '+.ssl.google-analytics.com'
