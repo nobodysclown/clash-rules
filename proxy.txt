@@ -29,6 +29,7 @@ payload:
   - '+.openwrt.org'
   - '+.packagecontrol.io'
   - '+.b-cdn.net'
+  - '+.warp.dev'
 #crypto
   - '+.backpack.exchange'
   - '+.coinlist.co'
