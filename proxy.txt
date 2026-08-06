@@ -1,6 +1,5 @@
 payload:
-#website
-  - '+.linux.do'
+
 #ai
   - '+.meta.ai'
   - '+.poke.com'
@@ -103,6 +102,9 @@ payload:
 #javdb
   - '+.javdb.com'
   - '+.jdbstatic.com'
+#linux.do
+  - '+.linux.do'
+  - '+.ldstatic.com'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
