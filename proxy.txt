@@ -100,12 +100,6 @@ payload:
   - '+.xmsl.org'
   - '+.emby.moe'
   - '+.xxlb.net'
-#javdb
-  - '+.javdb.com'
-  - '+.jdbstatic.com'
-#linux.do
-  - '+.linux.do'
-  - '+.ldstatic.com'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
