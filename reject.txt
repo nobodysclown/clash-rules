@@ -37,6 +37,7 @@ payload:
   - '+.pagead2.googlesyndication.com'
   - '+.pagead2.googleadservices.com'
   - '+.afs.googlesyndication.com'
+  - '+.adtrafficquality.google'
 #Doubleclick
   - '+.doubleclick.net'
 #Chinese-google-ad
