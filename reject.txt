@@ -34,16 +34,11 @@ payload:
   - '+.ssl-google-analytics.l.google.com'
   - '+.video-stats.video.google.com'
   - '+.wintricksbanner.googlepages.com'
-  - '+.doubleclick.net'
   - '+.pagead2.googlesyndication.com'
   - '+.pagead2.googleadservices.com'
   - '+.afs.googlesyndication.com'
 #Doubleclick
-  - '+.stats.g.doubleclick.net'
-  - '+.ad.doubleclick.net'
-  - '+.static.doubleclick.net'
-  - '+.m.doubleclick.net'
-  - '+.mediavisor.doubleclick.net'
+  - '+.doubleclick.net'
 #Chinese-google-ad
   - '+.2mdn-cn.net'
   - '+.admob-cn.com'
