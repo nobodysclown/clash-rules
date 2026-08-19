@@ -30,6 +30,7 @@ payload:
   - '+.packagecontrol.io'
   - '+.b-cdn.net'
   - '+.warp.dev'
+  - '+.dl.istoreos.com'
 #crypto
   - '+.backpack.exchange'
   - '+.coinlist.co'
