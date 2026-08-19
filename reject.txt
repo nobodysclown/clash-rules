@@ -1,4 +1,14 @@
 payload:
+#adguard
+  - '+.local.adguard.org'
+#Analytics
+  - '+.http-client.intellij.net'
+  - '+.click.googleanalytics.com'
+  - '+.google-analytics.com'
+  - '+.ssl.google-analytics.com'
+#Sentry
+  - '+.browser.sentry-cdn.com'
+  - '+.app.getsentry.com'
 #google
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
