@@ -8,7 +8,7 @@ payload:
   - '+.oaistatic.com'
   - '+.merge.dev'
   - '+.cerebras.ai'
-  - '+.0-0.pro'
+  - '+.opencode.ai'
 #api
   - '+.auth0.com'
   - '+.privy.io'
