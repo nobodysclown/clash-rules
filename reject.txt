@@ -7,8 +7,8 @@ payload:
   - '+.google-analytics.com'
   - '+.ssl.google-analytics.com'
 #Sentry
-  - '+.browser.sentry-cdn.com'
   - '+.app.getsentry.com'
+  - '+.browser.sentry-cdn.com'
 #google
   - '+.adservice.google.ca'
   - '+.adservice.google.co.za'
