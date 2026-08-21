@@ -1,11 +1,11 @@
 payload:
-
 #ai
   - '+.meta.ai'
   - '+.poke.com'
   - '+.openrouter.ai'
   - '+.chatgpt.com'
   - '+.oaistatic.com'
+  - '+.groq.com'
   - '+.merge.dev'
   - '+.cerebras.ai'
   - '+.opencode.ai'
