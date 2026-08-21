@@ -1,5 +1,6 @@
 payload:
 #ai
+  - '+.0-0.pro'
   - '+.meta.ai'
   - '+.poke.com'
   - '+.openrouter.ai'
