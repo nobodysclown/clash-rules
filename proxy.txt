@@ -14,6 +14,7 @@ payload:
   - '+.auth0.com'
   - '+.privy.io'
   - '+.hcaptcha.com'
+  - '+.recaptcha.net'
   - '+.immersivetranslate.cn'
   - '+.immersivetranslate.com'
 #dev
