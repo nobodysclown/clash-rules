@@ -1,0 +1,28 @@
+payload:
+  # Apple Intelligence / Siri
+  - 'guzzoni.apple.com'
+  - '+.smoot.apple.com'
+
+  # Apple 地区检测 / Location Services
+  - 'gspe1-ssl.ls.apple.com'
+  - '+.ls.apple.com'
+
+  # Private Relay / Mask
+  - 'mask-api.fe.apple-dns.net'
+  - 'mask-api.icloud.com'
+  - 'mask-t.apple-dns.net'
+  - 'mask.apple-dns.net'
+  - '+.mask-h2.icloud.com'
+  - '+.mask.icloud.com'
+
+  # Apple Intelligence Relay
+  - '+.apple-relay.apple.com'
+  - '+.apple-relay.cloudflare.com'
+  - '+.apple-relay.fastly-edge.com'
+  - '+.apple-relay.mask.apple-dns.net'
+
+  # iCloud AI gateway
+  - '+.gateway.icloud.com'
+
+  # Cloudflare backend
+  - '+.cp4.cloudflare.com'
