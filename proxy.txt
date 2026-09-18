@@ -47,6 +47,9 @@ payload:
   - '+.xstocks.fi'
   - '+.trade.xyz'
   - '+.hyperliquid.xyz'
+#worldcoin
+  - '+.world.org'
+  - '+.worldcoin.org'
 #safepal
   - '+.safepal.com'
   - '+.isafepal.com'
