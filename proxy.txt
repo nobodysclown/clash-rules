@@ -50,6 +50,7 @@ payload:
 #worldcoin
   - '+.world.org'
   - '+.worldcoin.org'
+  - '+.world-id-assets.com'
   - '+.toolsforhumanity.com'
   - '+.turnkey.com'
 #safepal
