@@ -50,6 +50,8 @@ payload:
 #worldcoin
   - '+.world.org'
   - '+.worldcoin.org'
+  - '+.toolsforhumanity.com'
+  - '+.turnkey.com'
 #safepal
   - '+.safepal.com'
   - '+.isafepal.com'
