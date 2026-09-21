@@ -12,6 +12,7 @@ payload:
   - '+.cerebras.ai'
   - '+.opencode.ai'
 #api
+  - '+.sumsub.com'
   - '+.auth0.com'
   - '+.privy.io'
   - '+.hcaptcha.com'
