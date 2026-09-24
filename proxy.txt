@@ -2,7 +2,9 @@ payload:
 #ai
   - '+.0-0.pro'
   - '+.meta.ai'
+  - '+.meta.com'
   - '+.muse.ai'
+  - '+.metaaivm.com'  
   - '+.poke.com'
   - '+.openrouter.ai'
   - '+.chatgpt.com'
