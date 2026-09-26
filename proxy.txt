@@ -112,10 +112,6 @@ payload:
 #snapchat
   - '+.snapchat.com'
   - '+.sc-static.net'
-#xmsl
-  - '+.xmsl.org'
-  - '+.emby.moe'
-  - '+.xxlb.net'
 #tiktok
   - '+.byteeffecttos-g.com'
   - '+.pitaya-clientai.com'
