@@ -13,7 +13,7 @@ payload:
   - '+.merge.dev'
   - '+.cerebras.ai'
   - '+.opencode.ai'
-  - '+.ominara.ai'
+  - '+.minara.ai'
 #api
   - '+.sumsub.com'
   - '+.auth0.com'
