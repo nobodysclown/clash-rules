@@ -51,6 +51,7 @@ payload:
   - '+.xstocks.fi'
   - '+.trade.xyz'
   - '+.hyperliquid.xyz'
+  - '+.lighter.xyz'
 #worldcoin
   - '+.world.org'
   - '+.worldcoin.org'
