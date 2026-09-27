@@ -12,7 +12,6 @@ payload:
   - '+.openrouter.ai'
   - '+.groq.com'
   - '+.merge.dev'
-  - '+.cerebras.ai'
 #chatgpt
   - '+.chatgpt.com'
   - '+.oaistatic.com'
@@ -44,8 +43,6 @@ payload:
 #crypto
   - '+.backpack.exchange'
   - '+.coinlist.co'
-  - '+.gate.com'
-  - '+.gateimage.com'
   - '+.asterdex.com'
   - '+.asterdexfx.com'
   - '+.asterbroker.com'
