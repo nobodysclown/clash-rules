@@ -1,20 +1,21 @@
 payload:
-#ai
-  - '+.0-0.pro'
+#meta
+  - '+.muse.ai'
   - '+.meta.ai'
   - '+.meta.com'
-  - '+.muse.ai'
   - '+.metaaivm.com'
   - '+.metaaiusercontent.com'
+#poke
   - '+.poke.com'
+#ai api
+  - '+.opencode.ai'
   - '+.openrouter.ai'
-  - '+.chatgpt.com'
-  - '+.oaistatic.com'
   - '+.groq.com'
   - '+.merge.dev'
   - '+.cerebras.ai'
-  - '+.opencode.ai'
-  - '+.minara.ai'
+#chatgpt
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
 #api
   - '+.sumsub.com'
   - '+.auth0.com'
