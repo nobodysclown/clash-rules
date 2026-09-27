@@ -7,7 +7,7 @@ payload:
   - '+.metaaiusercontent.com'
 #poke
   - '+.poke.com'
-#ai api
+#api gateway
   - '+.opencode.ai'
   - '+.openrouter.ai'
   - '+.groq.com'
