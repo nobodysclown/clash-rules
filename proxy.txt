@@ -40,7 +40,9 @@ payload:
   - '+.b-cdn.net'
   - '+.warp.dev'
   - '+.dl.istoreos.com'
-#crypto
+#exchange
+  - '+.krbitget.com'
+  - '+.abcdstable.com'
   - '+.backpack.exchange'
   - '+.coinlist.co'
   - '+.asterdex.com'
