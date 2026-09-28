@@ -15,6 +15,7 @@ payload:
 #chatgpt
   - '+.chatgpt.com'
   - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
 #api
   - '+.sumsub.com'
   - '+.auth0.com'
