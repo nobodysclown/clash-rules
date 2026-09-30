@@ -25,6 +25,7 @@ payload:
   - '+.immersivetranslate.cn'
   - '+.immersivetranslate.com'
 #dev
+  - '+.run.app'
   - '+.brew.sh'
   - '+.python.org'
   - '+.pythonhosted.org'
