@@ -5,17 +5,16 @@ payload:
   - '+.meta.com'
   - '+.metaaivm.com'
   - '+.metaaiusercontent.com'
-#poke
-  - '+.poke.com'
-#api gateway
-  - '+.opencode.ai'
-  - '+.openrouter.ai'
-  - '+.groq.com'
-  - '+.merge.dev'
 #chatgpt
   - '+.chatgpt.com'
   - '+.oaistatic.com'
   - '+.oaiusercontent.com'
+#ai gateway
+  - '+.opencode.ai'
+  - '+.openrouter.ai'
+  - '+.groq.com'
+  - '+.merge.dev'
+  - '+.typesafe.ai'
 #api
   - '+.sumsub.com'
   - '+.auth0.com'
