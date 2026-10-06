@@ -2,7 +2,6 @@ payload:
 #adguard
   - '+.local.adguard.org'
 #Analytics
-  - '+.http-client.intellij.net'
   - '+.click.googleanalytics.com'
   - '+.google-analytics.com'
   - '+.ssl.google-analytics.com'
