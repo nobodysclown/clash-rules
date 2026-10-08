@@ -1,4 +1,8 @@
 payload:
+#hark
+  - '+.hark.com'
+#tab
+  - '+.tab.bot'
 #openai
   - '+.chatgpt.com'
   - '+.oaistatic.com'
@@ -9,10 +13,6 @@ payload:
   - '+.meta.com'
   - '+.metaaivm.com'
   - '+.metaaiusercontent.com'
-#hark
-  - '+.hark.com'
-#tab
-  - '+.tab.bot'
 #ai gateway
   - '+.opencode.ai'
   - '+.openrouter.ai'
