@@ -1,16 +1,18 @@
 payload:
-#hark
-  - '+.hark.com'
+#openai
+  - '+.chatgpt.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
 #meta
   - '+.muse.ai'
   - '+.meta.ai'
   - '+.meta.com'
   - '+.metaaivm.com'
   - '+.metaaiusercontent.com'
-#chatgpt
-  - '+.chatgpt.com'
-  - '+.oaistatic.com'
-  - '+.oaiusercontent.com'
+#hark
+  - '+.hark.com'
+#tab
+  - '+.tab.bot'
 #ai gateway
   - '+.opencode.ai'
   - '+.openrouter.ai'
