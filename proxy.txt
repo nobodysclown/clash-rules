@@ -15,6 +15,7 @@ payload:
   - '+.metaaiusercontent.com'
 #ai gateway
   - '+.opencode.ai'
+  - '+.openchamber.dev'
   - '+.openrouter.ai'
   - '+.groq.com'
   - '+.merge.dev'
