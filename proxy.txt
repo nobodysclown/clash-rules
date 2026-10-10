@@ -14,6 +14,7 @@ payload:
   - '+.metaaivm.com'
   - '+.metaaiusercontent.com'
 #ai gateway
+  - '+.hf.co'
   - '+.opencode.ai'
   - '+.openchamber.dev'
   - '+.openrouter.ai'
