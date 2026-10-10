@@ -30,7 +30,6 @@ payload:
   - '+.immersivetranslate.cn'
   - '+.immersivetranslate.com'
 #dev
-  - '+.ts.net'
   - '+.run.app'
   - '+.brew.sh'
   - '+.python.org'
